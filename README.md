@@ -9,15 +9,30 @@
 
 `Political Bureau of the Communist Party` 中共中央政治局
 
+`general secretary of the Communist Party of China Central Committee`, 中共中央总书记
+
+`Chinese President` 国家主席
+
+`Chairman of the Central Military Commission` 中央军委主席
+
+
 `Foreign Minister spokesman` Geng Shuang 
 
 `State Coucil Taiwan Affairs Office` Ma Xiaoguang
+
+
+## Xi's Moments
+`Anti-corruption`
+
+Uphold the authority of the CPC Central Committe and its central and unified leadership by fulfilling earnestly in both words and deeds. 坚持党中央的权威和统一领导, 切实落实到话语和行动中去. 
+
+`Eradicate bureacracy and formalism` 清除官僚主义和形式主义
 
 ### Taiwan Issuses
 
 Taiwan is an inseparable part of China's territory. 台湾是中国不可分割的一部分
 
-seoaratists forces of `Taiwan independence` 台独分裂势力
+separatists forces of `Taiwan independence` 台独分裂势力
 
 `Democratic Progress Party` 民进党
 
@@ -33,6 +48,6 @@ China urged the US to abide by the `one-China` policy and the stipulations of th
 
 Don't underestimate China's will to safeguard its soverighty and territorial integrity and to `stand againt foreign interference`. 反对外国干涉
 
-### Hongkong Issues
+### 🇭🇰 Hongkong Issues
 
 
