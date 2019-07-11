@@ -40,9 +40,7 @@ separatists forces of `Taiwan independence` 台独分裂势力
 
 Any act of relying on `foreign forces` and elevating `cross-Straits tensions`will definitely backfire. 依靠外国势力,家中两岸紧张关系的行为, 都必将失败
 
-
 China urged the United States to immediately `revoke` its planned military sale to Taiwan at an estimated cost of $2.2 billion, and end its weapon sales and military ties with Taiwan. 
-
 
 China's government and people are firmly determined to safeguard `national sovereignty` and `territorial integrity`. 
 
