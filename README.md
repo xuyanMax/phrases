@@ -3,6 +3,8 @@
 
 ## 🇨🇳 China Characteristics
 
+`Standing Committee of the Political Bureau of the Communist Party of China Central Committee` 中国共产党中央政治局常务委员会
+
 `Chinese Academy of Social Science` 中国社会科学院
 
 `China Central Committee` 中共中央委员会
@@ -50,8 +52,38 @@ Don't underestimate China's will to safeguard its soverighty and territorial int
 
 ### 🇭🇰 Hongkong Issues
 
+### sino-us trade talk
+
+`Vice-Premier Liu He` 副总理 刘鹤
+
+`US Trade Representative Robert Lighthizer` 美国贸易代表 
+
+`US Treasury Secretary Steven Mnuchin` 美国财政部长 Mnuchin
+
+`Minister of Commerce` 商务部
+
+`trade friction` 贸易摩擦
+
+`Reach consensus by the two heads of state during the G20 Summit` 达成共识
+
+`stabilize bilateral relations` 稳定双边关系
+
+`Consensus sets a positive tone for future high-level economic and trade talks`共识设定了积极的未来高水平经贸对话的基调
+
+`solve differences and conflicts` 解决分歧和冲突
+
+`win-win situation/results` 双赢局面
+
+`advance talks, which stalled in May` 推动于五月份停滞的贸易谈话
+
+`Entity List` 实体清单
+
+`Huawei was put on the Entity List in May` 华为五月被列入实体清单
+
+
 
 ## 🇺🇸 USA 
+
 ## 🇬🇧 UK
 
 
