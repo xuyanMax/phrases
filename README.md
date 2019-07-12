@@ -81,6 +81,10 @@ _`Huawei was put on the Entity List in May`_ 华为五月被列入实体清单
 
 _`uncertainties created by Sino-Us trade dispute`__ 中美贸易摩擦产生的不稳定因素
 
+_`shifting production outside of China`_
+
+_`pass the cost on to consumers for the time being`_
+
 ## 🇨🇳 China Open Up
 
 _`no massive withdrawal of foreign investment`_ 大规模外资投资撤资
@@ -93,6 +97,3 @@ _`China ranked the world's second largest recipient of foreign direct investment
 
 `promote investment liberalization and facilitation` 提升投资自由和便利
 
-## 🇺🇸 USA 
-
-## 🇬🇧 UK
