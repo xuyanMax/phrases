@@ -17,6 +17,7 @@ _`Chinese President`_ 国家主席
 
 _`Chairman of the Central Military Commission`_ 中央军委主席
 
+`State Councile` 国务院
 
 _`Foreign Minister spokesman`_ Geng Shuang 
 
@@ -32,9 +33,9 @@ _`Eradicate bureacracy and formalism`_ 清除官僚主义和形式主义
 
 ### Taiwan Issuses
 
-Taiwan is an inseparable part of China's territory. 台湾是中国不可分割的一部分
+_Taiwan is an inseparable part of China's territory_. 台湾是中国不可分割的一部分
 
-separatists forces of _`Taiwan independence`_ 台独分裂势力
+_separatists forces of `Taiwan independence`_ 台独分裂势力
 
 _`Democratic Progress Party`_ 民进党
 
@@ -78,11 +79,20 @@ _`Entity List`_ 实体清单
 
 _`Huawei was put on the Entity List in May`_ 华为五月被列入实体清单
 
+_`uncertainties created by Sino-Us trade dispute`__ 中美贸易摩擦产生的不稳定因素
 
+## 🇨🇳 China Open Up
+
+_`no massive withdrawal of foreign investment`_ 大规模外资投资撤资
+
+_`legitimate rights and interests of foreign enterprises`_ 外资企业的合法的权利和利益
+
+_`Foreign Investment Law`_ 外商投资法
+
+_`China ranked the world's second largest recipient of foreign direct investment, after the United States`_ 中国排在美国之后, 世界第二大外商投资国
+
+`promote investment liberalization and facilitation` 提升投资自由和便利
 
 ## 🇺🇸 USA 
 
 ## 🇬🇧 UK
-
-
-
