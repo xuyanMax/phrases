@@ -38,4 +38,7 @@ _`Revoke driving licenses for drunk driving`_ 吊销驾照
 
 _`Have the license revoked and vehicle confiscated`_ 吊销驾照并扣留车辆
 
+_`Law will come into force/take effect`_ 法律实施于
 
+`Send favorable signals` 发出有利信号
+ph
