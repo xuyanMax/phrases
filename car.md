@@ -56,7 +56,7 @@
 ## Supercars 超跑
 ### Ferrari
 | Model | Horse Power | Torque | 0-100 | First Edition | history |
-| -- | -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- | -- | 
 458 |
 458 Speciale | 
 488 | 
