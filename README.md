@@ -67,7 +67,7 @@ _`Reach consensus by the two heads of state during the G20 Summit`_ 达成共识
 
 _`stabilize bilateral relations`_ 稳定双边关系
 
-_`Consensus sets a positive tone for future high-level economic and trade talks`_共识设定了积极的未来高水平经贸对话的基调
+_`Consensus sets a positive tone for future high-level economic and trade talks`_ 共识设定了积极的未来高水平经贸对话的基调
 
 _`solve differences and conflicts`_ 解决分歧和冲突
 

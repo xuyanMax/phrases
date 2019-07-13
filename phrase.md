@@ -1,7 +1,8 @@
 
 
 
-## Sexual Offences
+## Breaking News 
+### Sexual Offences
 
 _`Sexual Offencers`_ 性情者
 
@@ -26,7 +27,7 @@ _`A real estate developer`_ 实体地产开发商
 _`zero-tolerance against such children abuse misbehabior`_ 零容忍
 
 
-## Maserati Drunk Driving
+### Maserati Drunk Driving
 
 _`The accident sparked heated discussion on social media in China`_ 激起网络千层浪
 
@@ -56,3 +57,5 @@ _`With that caveat in mind`_, `it is a good way to ...` 将这个忠告谨记在
 _`Keep in mind the above caveat`_ 将这些忠告谨记在心
 
 _`Bearing this caveat in mind, we have to ...`_ 将这些谨记在心, 我们应该...
+
+_`If you squint, you can see a connection to ...`_ 如果仔细看, 你能看到与...有关联
