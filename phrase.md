@@ -40,5 +40,19 @@ _`Have the license revoked and vehicle confiscated`_ 吊销驾照并扣留车辆
 
 _`Law will come into force/take effect`_ 法律实施于
 
-`Send favorable signals` 发出有利信号
-ph
+_`Send favorable signals`__ 发出有利信号
+
+## Reporting 
+_`A is not better than B`__ A 不如 B
+
+_`A alone does not tell the full story`_ 仅仅A本身, 不够全面得出...
+
+_`Mistakenly predicting "not sick" for a person who actually is sick could be deadly`_.
+
+## Speaking 
+
+_`With that caveat in mind`_, `it is a good way to ...` 将这个忠告谨记在心
+
+_`Keep in mind the above caveat`_ 将这些忠告谨记在心
+
+_`Bearing this caveat in mind, we have to ...`_ 将这些谨记在心, 我们应该...
