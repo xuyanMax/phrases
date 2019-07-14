@@ -59,3 +59,9 @@ _`Keep in mind the above caveat`_ 将这些忠告谨记在心
 _`Bearing this caveat in mind, we have to ...`_ 将这些谨记在心, 我们应该...
 
 _`If you squint, you can see a connection to ...`_ 如果仔细看, 你能看到与...有关联
+
+_`left-behind children`_ 留守儿童
+
+_`College admission letter brings joy and smile`_ 大学录取通知书带来欢乐
+
+_`Strongly dissatisfied and firmly opposed to`_ 强烈不满并坚决反对

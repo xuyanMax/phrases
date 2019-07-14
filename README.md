@@ -31,6 +31,7 @@ Uphold the authority of the CPC Central Committe and its central and unified lea
 
 _`Eradicate bureacracy and formalism`_ 清除官僚主义和形式主义
 
+
 ### Taiwan Issuses
 
 _Taiwan is an inseparable part of China's territory_. 台湾是中国不可分割的一部分
@@ -132,6 +133,7 @@ _`pass the cost on to consumers for the time being`_
 
 - June 29, 2019
     - President Xi Jinping (R) meets with US President Donald Trump in Osaka, Japan on. Cease-fire raises hope of the trade war
+
 ## 🇨🇳 China Open Up
 
 _`no massive withdrawal of foreign investment`_ 大规模外资投资撤资
@@ -143,4 +145,16 @@ _`Foreign Investment Law`_ 外商投资法
 _`China ranked the world's second largest recipient of foreign direct investment, after the United States`_ 中国排在美国之后, 世界第二大外商投资国
 
 `promote investment liberalization and facilitation` 提升投资自由和便利
+
+
+## 🇨🇳 China Human Rights 
+2019-07-12
+> _A letter issued by 22 countries criticizing human rights conditions in the Xinjiang Uygur autonomous region ignores the truth and `makes groudless accusations` and attempts to smear China, Beijing said on Tuesday._ 
+
+## 🇨🇳 diplomacy 
+
+_`Brutally interfer in China's domestic affairs`_ 粗暴干涉中国内政
+ 
+_We urge these countries to `respect facts`, `give up biases`, `observe the purposes and principles of the UN Charter`, and `stop politicizing human right`issues and using Xinjiang-related issues to interfere in China's domestic affairs._ 敦促这些国家尊重事实, 放弃偏见, 遵守联合国宪章, 停滞将人权问题政治化, 并使用新疆问题干涉中国内政
+
 
