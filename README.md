@@ -2,9 +2,12 @@
 
 
 [Vehicles](./car.md)
+
 [BodyBuilder](./bodybuilder.md)
+
 [UK](./uk.md)
-[USA](./us.md)
+
+[USA](./usa.md)
 
 ## 🇨🇳 China Characteristics
 
