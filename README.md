@@ -1,6 +1,11 @@
 # Collecations, phrases & vocabularies
 
 
+[Vehicles](./car.md)
+[BodyBuilder](./bodybuilder.md)
+[UK](./uk.md)
+[USA](./us.md)
+
 ## 🇨🇳 China Characteristics
 
 _`Standing Committee of the Political Bureau of the Communist Party of China Central Committee`_ 中国共产党中央政治局常务委员会
@@ -168,6 +173,8 @@ _`China ranked the world's second largest recipient of foreign direct investment
 2019-07-12
 > _A letter issued by 22 countries criticizing human rights conditions in the Xinjiang Uygur autonomous region ignores the truth and `makes groudless accusations` and attempts to smear China, Beijing said on Tuesday._ 
 
+> Saudi Arabia, Russia and 35 other states have written to the United Nations supporting China’s policies in its western region of Xinjiang
+ 
 ## 🇨🇳 China Xinjiang Issues 
 
 _`Brutally interfer in China's domestic affairs`_ 粗暴干涉中国内政
