@@ -70,6 +70,7 @@ Enzo |
 
 ### Porsche
 | Model | Horse Power | Torque | 0-100 | First Edition | history | price | 
+| -- | -- | -- | -- | -- | -- | -- |
 918 |
 911 Targa|
 911 S|
