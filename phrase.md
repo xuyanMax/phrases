@@ -68,4 +68,8 @@ _`Strongly dissatisfied and firmly opposed to`_ 强烈不满并坚决反对
 
 _'We need a more find grained way of looking at the way that ...'_ 
 
+_`attemp to shift responsibility onto someone else`_ 试图推卸责任到他人身上
 
+_`Some principles lack details suitable for implementation`_  有些原则缺乏适合实施的细节
+
+_`No existing laws about ** have executable details about individual cases`_. 
