@@ -18,3 +18,18 @@ The Commons alone is responsible for making decisions on financial Bills, such a
 The House of Lords is the second chamber of the UK Parliament. It is independent from, and complements the work of, the elected House of Commons. The Lords shares the task of making and shaping laws and checking and challenging the work of the government.
 
 ## United Kingdom History 
+
+## UK Royal
+## UK Noble 
+
+## UK Cities
+### London
+#### Kensinton 
+#### Westminster
+#### Holloway 
+#### Chelsea
+### Brighton
+### Liverpool
+### Oxford
+### Cambridge
+
