@@ -72,4 +72,4 @@ _`attemp to shift responsibility onto someone else`_ 试图推卸责任到他人
 
 _`Some principles lack details suitable for implementation`_  有些原则缺乏适合实施的细节
 
-_`No existing laws about ** have executable details about individual cases`_. 
+_`No existing laws about ** have executable details about individual cases`_.  现行法律对于个别案例没有可实施细节
