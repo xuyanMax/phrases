@@ -73,3 +73,11 @@ _`attemp to shift responsibility onto someone else`_ 试图推卸责任到他人
 _`Some principles lack details suitable for implementation`_  有些原则缺乏适合实施的细节
 
 _`No existing laws about ** have executable details about individual cases`_.  现行法律对于个别案例没有可实施细节
+
+_`You cannot scare me with his gestapo crap`_
+
+_`Like a splinter in your mind, driving you mad`_
+
+_`You stay in wonderland, and I'll show you how deep the rabbit hole is.`_
+
+_`Fate, it seems, is not without an irony`_
