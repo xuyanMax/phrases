@@ -74,3 +74,7 @@ _`Some principles lack details suitable for implementation`_  有些原则缺乏
 
 _`No existing laws about ** have executable details about individual cases`_.  现行法律对于个别案例没有可实施细节
 
+
+## Writing
+
+_antagonist_ vs. _protagonist_ 反派 vs 主要角色

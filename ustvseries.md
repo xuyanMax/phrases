@@ -20,9 +20,23 @@ _Henry Pope, the warden_, _Brad Bellick_
 
 _Caroline Reynolds_ 女副总统
 
+_Alexande Mahone_
+
+_Paul Kellerman, Secrete Service_
 
 ### Places
 _Fox River State Penitentiary_
+
+### Narrative
+
+_Lincoln is accused of murdering Terrence Steadman and is sentenced to death and is incarcerated in Fox River where he awaits his execution_
+
+_Michael formulates an escape plan by commiting an armed robbery_
+
+_Michael befriends Sara Tancredi when he pretends to suffer from Type 1 diabetes in order to gain access to prison infirmary, when he receives his daily insulin shots_
+
+_The company frames Lincoln because of his father Aldo Burrows, and his former connections with the Company_
+
 
 ### Season 1, Episode 2*
 _`Twist the knif cut in my back`_ 扭动插在我背上的刀
