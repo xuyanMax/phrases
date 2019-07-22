@@ -1,6 +1,3 @@
-   
-
-
 ## Breaking News 
 ### Sexual Offences
 
@@ -74,6 +71,9 @@ _`Some principles lack details suitable for implementation`_  有些原则缺乏
 
 _`No existing laws about ** have executable details about individual cases`_.  现行法律对于个别案例没有可实施细节
 
+> "In the sport of swimming, when you miss one day, it takes two days to get back. For me when I spent six years straight not missing a single day, I was getting so much more benefit out of that than other athletes who were training for six days."
+> "If you take Sunday off, you aren't back to where you were until Tuesday. I was training so much. Now when I get in, I don't have that feel of the water that I had before. I've lost it. `So, no comeback, you guys`."
+> -- Michael Phelps
 
 ## Writing
 
