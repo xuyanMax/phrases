@@ -74,7 +74,10 @@ _`No existing laws about ** have executable details about individual cases`_.  �
 > "In the sport of swimming, when you miss one day, it takes two days to get back. For me when I spent six years straight not missing a single day, I was getting so much more benefit out of that than other athletes who were training for six days."
 > "If you take Sunday off, you aren't back to where you were until Tuesday. I was training so much. Now when I get in, I don't have that feel of the water that I had before. I've lost it. `So, no comeback, you guys`."
 > -- Michael Phelps
+> 
+_Thank the crowd for braving the clement weather to show their solidarity in safeguarding the city_ 守卫香港的决心
+
+_At the end of the rally, a group of youth representatives read a declaration `appealing to` the public never to `resort to violence`, `to talk instead of to argue` and `to unite instead of to fight`._
 
 ## Writing
 
-_antagonist_ vs. _protagonist_ 反派 vs 主要角色
