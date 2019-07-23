@@ -28,8 +28,10 @@
 
 [中国改革开发](#🇨🇳open-up)
 
-[中国人权问题](🇨🇳Human-Rights)
-[中国新疆](🇨🇳XinJiang)
+[中国人权问题](#🇨🇳Human-Rights)
+
+[中国新疆](#🇨🇳XinJiang)
+
 ## 🇨🇳China
 
 _`Standing Committee of the Political Bureau of the Communist Party of China Central Committee`_ 中国共产党中央政治局常务委员会
