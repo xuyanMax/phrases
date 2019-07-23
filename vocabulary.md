@@ -34,3 +34,4 @@
 - _barricade_ 路障
 - _roadblocks_ 路障
 - _antagonist_ vs. _protagonist_ 反派 vs 主要角色
+- _prosecutor_ 公诉人
