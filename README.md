@@ -1,8 +1,10 @@
 # Collecations, phrases & vocabularies
 ## Content
-[Vehicles](./car.md)
+[汽车](./car.md)
 
-[BodyBuilder](./bodybuilder.md)
+[摩托车](./motor.md)
+
+[健身](./bodyBuilder.md)
 
 [UK](./uk.md)
 
@@ -10,7 +12,21 @@
 
 [USA TV Series](./ustvseries.md)
 
-## 🇨🇳 China Characteristics
+[ARM 武器](./arm.md)
+
+[词语表达](./phrase.md)
+
+[中国特色](#🇨🇳China)
+
+[习动态](#Xi's-Moments)
+
+[台湾](#Taiwan)
+
+[香港](#🇭🇰Hongkong)
+
+[中美贸易战](#Sino-Us)
+
+## 🇨🇳China
 
 _`Standing Committee of the Political Bureau of the Communist Party of China Central Committee`_ 中国共产党中央政治局常务委员会
 
@@ -35,7 +51,7 @@ _`Foreign Minister spokesman`_ Geng Shuang
 _`State Coucil Taiwan Affairs Office`_ Ma Xiaoguang
 
 
-## Xi's Moments
+## Xi's-Moments
 _`Anti-corruption`_
 
 Uphold the authority of the CPC Central Committe and its central and unified leadership by fulfilling earnestly in both words and deeds. 坚持党中央的权威和统一领导, 切实落实到话语和行动中去. 
@@ -43,7 +59,7 @@ Uphold the authority of the CPC Central Committe and its central and unified lea
 _`Eradicate bureacracy and formalism`_ 清除官僚主义和形式主义
 
 
-### Taiwan Issuses
+### Taiwan
 
 _Taiwan is an `inseparable part` of China's territory_. 台湾是中国不可分割的一部分
 
@@ -76,7 +92,7 @@ _It is typical for the US to play the Taiwan card as leverage to pressure China_
 _If the US keeps ignoring China's `resolve and bottom line`, China will have no choice but to strongly counter_ 如果美国继续忽视中国的决心和底线, 中国只好强烈反抗
 
 
-### 🇭🇰 Hongkong Issues
+### 🇭🇰Hongkong
 
 _`Hong Kong Special Administrative Region (HKSAR) government`_ 香港特别行政区政府
 
@@ -86,7 +102,7 @@ _`Extradition Bill`_  引渡法案
 
 _`We must not tolerate any action that undermines Hong Kong and the principle of 'one country, two systems'.`_ 绝不容忍破坏香港一国两制方针的行径
 
-### sino-us trade talk
+### sino-us
 
 _`Vice-Premier Liu He`_ 副总理 刘鹤
 
@@ -119,6 +135,39 @@ _`uncertainties created by Sino-Us trade dispute`__ 中美贸易摩擦产生的�
 _`shifting production outside of China`_
 
 _`pass the cost on to consumers for the time being`_
+
+
+## 🇨🇳 China Open Up
+
+_`no massive withdrawal of foreign investment`_ 大规模外资投资撤资
+
+_`legitimate rights and interests of foreign enterprises`_ 外资企业的合法的权利和利益
+
+_`Foreign Investment Law`_ 外商投资法
+
+_`China ranked the world's second largest recipient of foreign direct investment, after the United States`_ 中国排在美国之后, 世界第二大外商投资国
+
+`promote investment liberalization and facilitation` 提升投资自由和便利
+
+
+## 🇨🇳 China Human Rights 
+2019-07-12
+> _A letter issued by 22 countries criticizing human rights conditions in the Xinjiang Uygur autonomous region ignores the truth and `makes groudless accusations` and attempts to smear China, Beijing said on Tuesday._ 
+
+> Saudi Arabia, Russia and 35 other states have written to the United Nations supporting China’s policies in its western region of Xinjiang
+ 
+## 🇨🇳 China Xinjiang Issues 
+
+_`Brutally interfer in China's domestic affairs`_ 粗暴干涉中国内政
+ 
+_We urge these countries to `respect facts`, `give up biases`, `observe the purposes and principles of the UN Charter`, and `stop politicizing human right`issues and using Xinjiang-related issues to interfere in China's domestic affairs._ 敦促这些国家尊重事实, 放弃偏见, 遵守联合国宪章, 停滞将人权问题政治化, 并使用新疆问题干涉中国内政
+
+_Xinjiang's affairs are purely China's domestic affairs and concern `China's sovereignty, security and territorial integrity`, and China's government and people are best qualified to speak on Xinjiang-related issues, in which no countries or foreign forces are allowed to interfere_ 新疆事务纯属中国内政, 关系中国主权、安全和领土完整. 中国政府和人民最有资格谈论新疆事物, 其他国家和外部势力不允许干预
+
+_The autonomous region, facing serious `threats from terrorism and extremism`, has rehabilitated extremists and taken a series of anti-terrorist measures, according to law, such as setting up `vocational education and training centers`._ 自治区面临来自恐怖主义和极端主义的严重威胁, 极端分子抬头, 自治区一句法律采取了一系列反恐措施, 包括创建职业学院和培训中心. 
+
+_China has invited diplomats, media and experts and scholars from various countries to visit Xinjiang and see the truth for themselves_ 中国已经要求全球的外交官、媒体、专家和学者前往新疆考察真相
+
 
 ### Sino-Us trade war Timeline 
 
@@ -167,36 +216,3 @@ _`pass the cost on to consumers for the time being`_
 
 - June 29, 2019
     - President Xi Jinping (R) meets with US President Donald Trump in Osaka, Japan on. Cease-fire raises hope of the trade war
-
-## 🇨🇳 China Open Up
-
-_`no massive withdrawal of foreign investment`_ 大规模外资投资撤资
-
-_`legitimate rights and interests of foreign enterprises`_ 外资企业的合法的权利和利益
-
-_`Foreign Investment Law`_ 外商投资法
-
-_`China ranked the world's second largest recipient of foreign direct investment, after the United States`_ 中国排在美国之后, 世界第二大外商投资国
-
-`promote investment liberalization and facilitation` 提升投资自由和便利
-
-
-## 🇨🇳 China Human Rights 
-2019-07-12
-> _A letter issued by 22 countries criticizing human rights conditions in the Xinjiang Uygur autonomous region ignores the truth and `makes groudless accusations` and attempts to smear China, Beijing said on Tuesday._ 
-
-> Saudi Arabia, Russia and 35 other states have written to the United Nations supporting China’s policies in its western region of Xinjiang
- 
-## 🇨🇳 China Xinjiang Issues 
-
-_`Brutally interfer in China's domestic affairs`_ 粗暴干涉中国内政
- 
-_We urge these countries to `respect facts`, `give up biases`, `observe the purposes and principles of the UN Charter`, and `stop politicizing human right`issues and using Xinjiang-related issues to interfere in China's domestic affairs._ 敦促这些国家尊重事实, 放弃偏见, 遵守联合国宪章, 停滞将人权问题政治化, 并使用新疆问题干涉中国内政
-
-_Xinjiang's affairs are purely China's domestic affairs and concern `China's sovereignty, security and territorial integrity`, and China's government and people are best qualified to speak on Xinjiang-related issues, in which no countries or foreign forces are allowed to interfere_ 新疆事务纯属中国内政, 关系中国主权、安全和领土完整. 中国政府和人民最有资格谈论新疆事物, 其他国家和外部势力不允许干预
-
-_The autonomous region, facing serious `threats from terrorism and extremism`, has rehabilitated extremists and taken a series of anti-terrorist measures, according to law, such as setting up `vocational education and training centers`._ 自治区面临来自恐怖主义和极端主义的严重威胁, 极端分子抬头, 自治区一句法律采取了一系列反恐措施, 包括创建职业学院和培训中心. 
-
-_China has invited diplomats, media and experts and scholars from various countries to visit Xinjiang and see the truth for themselves_ 中国已经要求全球的外交官、媒体、专家和学者前往新疆考察真相
-
-
