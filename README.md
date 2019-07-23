@@ -18,7 +18,7 @@
 
 [中国特色](#🇨🇳China)
 
-[习动态](#Xi's-Moments)
+[习动态](#Xi-Moments)
 
 [台湾](#Taiwan)
 
@@ -26,6 +26,10 @@
 
 [中美贸易战](#Sino-Us)
 
+[中国改革开发](#🇨🇳open-up)
+
+[中国人权问题](🇨🇳Human-Rights)
+[中国新疆](🇨🇳XinJiang)
 ## 🇨🇳China
 
 _`Standing Committee of the Political Bureau of the Communist Party of China Central Committee`_ 中国共产党中央政治局常务委员会
@@ -51,7 +55,7 @@ _`Foreign Minister spokesman`_ Geng Shuang
 _`State Coucil Taiwan Affairs Office`_ Ma Xiaoguang
 
 
-## Xi's-Moments
+## Xi-Moments
 _`Anti-corruption`_
 
 Uphold the authority of the CPC Central Committe and its central and unified leadership by fulfilling earnestly in both words and deeds. 坚持党中央的权威和统一领导, 切实落实到话语和行动中去. 
@@ -137,7 +141,7 @@ _`shifting production outside of China`_
 _`pass the cost on to consumers for the time being`_
 
 
-## 🇨🇳 China Open Up
+## 🇨🇳open-up
 
 _`no massive withdrawal of foreign investment`_ 大规模外资投资撤资
 
@@ -150,13 +154,13 @@ _`China ranked the world's second largest recipient of foreign direct investment
 `promote investment liberalization and facilitation` 提升投资自由和便利
 
 
-## 🇨🇳 China Human Rights 
+## 🇨🇳Human-Rights 
 2019-07-12
 > _A letter issued by 22 countries criticizing human rights conditions in the Xinjiang Uygur autonomous region ignores the truth and `makes groudless accusations` and attempts to smear China, Beijing said on Tuesday._ 
 
 > Saudi Arabia, Russia and 35 other states have written to the United Nations supporting China’s policies in its western region of Xinjiang
  
-## 🇨🇳 China Xinjiang Issues 
+## 🇨🇳Xinjiang
 
 _`Brutally interfer in China's domestic affairs`_ 粗暴干涉中国内政
  
