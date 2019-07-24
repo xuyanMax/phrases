@@ -56,6 +56,9 @@ _`Foreign Minister spokesman`_ Geng Shuang
 
 _`State Coucil Taiwan Affairs Office`_ Ma Xiaoguang
 
+_HE was an excellent member of the Communist Party of China, a time-tested and loyal Communist soldier, a prominent proletarian revolutionary and statesman, as well as an outstanding leader of the Party and the country, the statement said._ 中国共产党的优秀党员, 久经考验的共产主义战士, 杰出的无产阶级革命家、政治家, 党和国家的卓越领导人
+
+_National People's Congress_ 人民代表大会
 
 ## Xi-Moments
 _`Anti-corruption`_
