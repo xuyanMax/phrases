@@ -81,3 +81,18 @@ _At the end of the rally, a group of youth representatives read a declaration `a
 
 ## Writing
 
+## Richard Liu's Case
+_`Rape allegation` against billionaire Richard Liu while he was in the University of Mimmesota Twin Cities_ 对刘强东再明尼苏达双城大学期间的强奸指控
+
+_Police released 911 transcripts, text messages sent from victim after the alleged rape, surveillance footage and pictures_ 警方公布了911报警记录, 受害人声称被强奸后的短信, 监控镜头以及图片
+
+_Liu tells the police it was `consensual`_ 刘强东告诉警方这是双方一致同意的
+
+_While prosecutors decided against `pressing charges` against Liu, the victim in April `filed a lawsuit` against the tech executive_ 当控诉房决定不对刘起诉时, 受害人于四月对京东大佬提起诉讼
+
+_The victim says her family cannot put food on the table_ 受害人声称自己家庭没有钱
+
+_She was forced and he started to molest her in his vehicle, and the she begged him not to_ 她声称, 自己是被强迫的, 且刘强东在车里就对自己骚扰, 而她请求他不要这样
+
+
+
