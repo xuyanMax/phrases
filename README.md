@@ -18,23 +18,23 @@
 
 [词语表达](./phrase.md)
 
-[中国特色](#China🇨🇳)
+[中国特色](#China)
 
 [习动态](#Xi-Moments)
 
 [台湾](#Taiwan)
 
-[香港](#Hongkong🇭🇰)
+[香港](#Hongkong)
 
 [中美贸易战](#Sino-Us)
 
-[中国改革开发](#open-up🇨🇳)
+[中国改革开发](#open-up)
 
-[中国人权问题](#Human-Rights🇨🇳)
+[中国人权问题](#Human-Rights)
 
-[中国新疆](#XinJiang🇨🇳)
+[中国新疆](#XinJiang)
 
-## China🇨🇳
+## China
 
 _`Standing Committee of the Political Bureau of the Communist Party of China Central Committee`_ 中国共产党中央政治局常务委员会
 
@@ -109,7 +109,7 @@ _It is typical for the US to play the Taiwan card as leverage to pressure China_
 _If the US keeps ignoring China's `resolve and bottom line`, China will have no choice but to strongly counter_ 如果美国继续忽视中国的决心和底线, 中国只好强烈反抗
 
 
-### Hongkong🇭🇰
+### Hongkong
 
 _`Hong Kong Special Administrative Region (HKSAR) government`_ 香港特别行政区政府
 
@@ -154,7 +154,7 @@ _`shifting production outside of China`_
 _`pass the cost on to consumers for the time being`_
 
 
-## open-up🇨🇳
+## open-up
 
 _`no massive withdrawal of foreign investment`_ 大规模外资投资撤资
 
@@ -167,13 +167,13 @@ _`China ranked the world's second largest recipient of foreign direct investment
 `promote investment liberalization and facilitation` 提升投资自由和便利
 
 
-## Human-Rights🇨🇳
+## Human-Rights
 2019-07-12
 > _A letter issued by 22 countries criticizing human rights conditions in the Xinjiang Uygur autonomous region ignores the truth and `makes groudless accusations` and attempts to smear China, Beijing said on Tuesday._ 
 
 > Saudi Arabia, Russia and 35 other states have written to the United Nations supporting China’s policies in its western region of Xinjiang
  
-## Xinjiang🇨🇳
+## Xinjiang🇨
 
 _`Brutally interfer in China's domestic affairs`_ 粗暴干涉中国内政
  
