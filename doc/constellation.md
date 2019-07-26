@@ -1,6 +1,6 @@
 # Constellation, Zodiac
 
--_Capricornus_ 摩羯宫, 
+- _Capricornus_ 摩羯宫, 
 - _Aquarius_ 水瓶座, 
 - _Pisces_ 双鱼, 
 - _Aries_, 白羊座
