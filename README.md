@@ -18,7 +18,7 @@
 
 [词语表达](./doc/phrase.md)
 
-[学校] (./doc/studentLife.md)
+[学校](./doc/studentLife.md)
 
 [中国特色](#China)
 
