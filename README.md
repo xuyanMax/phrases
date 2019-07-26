@@ -1,22 +1,24 @@
 # Collecations, phrases & vocabularies
 ## Content
-[汽车](./car.md)
+[汽车](./doc/car.md)
 
-[摩托车](./motor.md)
+[摩托车](./doc/motor.md)
 
-[健身](./bodyBuilder.md)
+[健身](./doc/bodyBuilder.md)
 
-[UK](./uk.md)
+[UK](./doc/uk.md)
 
-[USA](./usa.md)
+[USA](./doc/usa.md)
 
-[USA TV Series](./ustvseries.md)
+[USA TV Series](./doc/ustvseries.md)
 
-[Zodiac](./constellation.md)
+[Zodiac](./doc/constellation.md)
 
-[ARM 武器](./arm.md)
+[ARM 武器](./doc/arm.md)
 
-[词语表达](./phrase.md)
+[词语表达](./doc/phrase.md)
+
+[学校] (./doc/studentLife.md)
 
 [中国特色](#China)
 
