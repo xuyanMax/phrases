@@ -94,5 +94,15 @@ _The victim says her family cannot put food on the table_ 受害人声称自己�
 
 _She was forced and he started to molest her in his vehicle, and the she begged him not to_ 她声称, 自己是被强迫的, 且刘强东在车里就对自己骚扰, 而她请求他不要这样
 
+## Sun Yang 
+
+_Sun won the men's 400-meter freestyle competition at the 18th FINA World Championship, held in Guang Ju in the Republic of Korea_
+
+_Mark Hortont who won the silver medal refused to stand on the podium to receive his medal._
+
+_Hortont even reportedly tried to persuade the bronze medalist to join him against Sun._
+
+_Hortont's disrespectful behavior aroused fierce discussion on domestic social media networks_
+
 
 
