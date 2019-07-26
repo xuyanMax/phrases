@@ -38,11 +38,11 @@
 
 _`Standing Committee of the Political Bureau of the Communist Party of China Central Committee`_ 中国共产党中央政治局常务委员会
 
-_`Chinese Academy of Social Science`_ 中国社会科学院
-
-_`China Central Committee`_ 中共中央委员会
+_`China Central Committee of Communist Party`_ 中共中央委员会
 
 _`Political Bureau of the Communist Party`_ 中共中央政治局
+
+_`Chinese Academy of Social Science`_ 中国社会科学院
 
 _`general secretary of the Communist Party of China Central Committee`_, 中共中央总书记
 
@@ -53,6 +53,12 @@ _`Chinese President`_ 国家主席
 _`Chairman of the Central Military Commission`_ 中央军委主席
 
 `State Councile` 国务院
+
+`Ministry of Education` 教育部
+
+`the Ministry of Finance` 财政部
+
+`National Development and Reform Commission` 国家发展改革委
 
 _`Foreign Minister spokesman`_ Geng Shuang 
 
