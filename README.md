@@ -70,6 +70,9 @@ _HE was an excellent member of the Communist Party of China, a time-tested and l
 
 _National People's Congress_ 人民代表大会
 
+_National People's Congress Standing Committee_
+_Babaoshan Revolutionary Cemetery_ 八宝山革命公墓
+
 ## Xi-Moments
 _`Anti-corruption`_
 
@@ -175,7 +178,7 @@ _`China ranked the world's second largest recipient of foreign direct investment
 
 > Saudi Arabia, Russia and 35 other states have written to the United Nations supporting China’s policies in its western region of Xinjiang
  
-## Xinjiang🇨
+## Xinjiang
 
 _`Brutally interfer in China's domestic affairs`_ 粗暴干涉中国内政
  

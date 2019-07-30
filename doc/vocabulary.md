@@ -35,3 +35,6 @@
 - _roadblocks_ 路障
 - _antagonist_ vs. _protagonist_ 反派 vs 主要角色
 - _prosecutor_ 公诉人
+- _cemetery_ 殡仪馆
+- _cremate_ 火化
+- 

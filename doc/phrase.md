@@ -104,5 +104,22 @@ _Hortont even reportedly tried to persuade the bronze medalist to join him again
 
 _Hortont's disrespectful behavior aroused fierce discussion on domestic social media networks_
 
+_The statement of FINA clearly said that "Mr Sun Yang did not commit an anti-doping rule violation" earlier this year_
+
+_Taking such a radicla measure as to avoid joining the podium should not be seen as a protest, but an insult._
+
+_While FINA repects the principle of freedom of speech, it has to be conducted in the right context._
+
+_As in all major sport organizations, our athelets and their entourages are aware of their responsibilities to respect FINA regulations and not to use FINA events to make personal statements and gestures._
+
+## Li Peng
+
+_Hu Jintao, who is not in Beijing, sent a wreath to express his condolences_
+
+_At the Babaoshan Revolutionary Cemetery, President Xi Jinping, Premier Li Keqiang and other members of the Standing Committee of the Political Bureau of the Communist Party of China Central Committee — Li Zhanshu, Wang Yang, Wang Hu­ning, Zhao Leji, Han Zheng — as well as Vice-President Wang Qishan and former president Jiang Zemin, stood in silent tribute and bowed three times in front of the former premier's body on Monday morning. They also extended their condolences to Li's family._
+
+_Li was extolled in an obituary issued by the central authorities as "an excellent Party member, a time-tested and loyal Communist soldier, and an outstanding proletarian revolutionary, statesman and leader of the Party and the State"._
+
+
 
 
