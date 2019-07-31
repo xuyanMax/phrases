@@ -1,0 +1,1 @@
+- Bank's reserve requirement 

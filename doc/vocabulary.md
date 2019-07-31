@@ -37,4 +37,9 @@
 - _prosecutor_ 公诉人
 - _cemetery_ 殡仪馆
 - _cremate_ 火化
-- 
+- _Release on bail_ 
+- _lamppost_ 路灯
+- _barricade_ 路障
+- _roadblock_ 路障
+- _railing_ 栏杆
+- _iron rod_ 铁棒

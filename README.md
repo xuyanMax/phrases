@@ -64,21 +64,34 @@ _`Chairman of the Central Military Commission`_ 中央军委主席
 
 _`Foreign Minister spokesman`_ Geng Shuang 
 
-_`State Coucil Taiwan Affairs Office`_ Ma Xiaoguang
+_`State Council Taiwan Affairs Office`_ Ma Xiaoguang
 
 _HE was an excellent member of the Communist Party of China, a time-tested and loyal Communist soldier, a prominent proletarian revolutionary and statesman, as well as an outstanding leader of the Party and the country, the statement said._ 中国共产党的优秀党员, 久经考验的共产主义战士, 杰出的无产阶级革命家、政治家, 党和国家的卓越领导人
 
 _National People's Congress_ 人民代表大会
 
-_National People's Congress Standing Committee_
+_March of Volunteers_ 义勇军进行曲
+
+_National Anthem_ 国歌
+
+_National People's Congress Standing Committee_ 全国人民代表大会常务理事会
+
 _Babaoshan Revolutionary Cemetery_ 八宝山革命公墓
 
 ## Xi-Moments
 _`Anti-corruption`_
 
-Uphold the authority of the CPC Central Committe and its central and unified leadership by fulfilling earnestly in both words and deeds. 坚持党中央的权威和统一领导, 切实落实到话语和行动中去. 
+_Uphold the authority of the CPC Central Committe and its central and unified leadership by `fulfilling earnestly in both words and deeds`._ 坚持党中央的权威和统一领导, 切实落实到话语和行动中去. 
 
 _`Eradicate bureacracy and formalism`_ 清除官僚主义和形式主义
+
+_China will unswervingly deepen `supply side structural reform` and foster new growth engines to push high-quality economic development in a down-to-earth manner._ 坚持深化供给侧改革, 
+
+_China will not change its real estate policies to provide short-term simulus to economy, but instead will make fiscal policy more effective and keep liquidity reasonably ample._ 不将房地产作为短期刺激经济的手段, 保持流动性合理充裕
+
+_The long-term management mechanism of the real estate sector should be implemented and the industry will not be used as means to stimulate the economy in the short term._ 建立房地产产业长效管理机制
+
+_Proactive fiscal policy and prudent monetary policy should be well implemented," the report said. "Fiscal policy should be strengthened and made more effective, and the tax and fee reduction policy should be implemented more thoroughly._ 要实施好积极的财政政策. 财政政策要加力提效, 继续落实落细减税降费政策
 
 
 ### Taiwan
@@ -123,6 +136,12 @@ _`The Liaison Office of the Central people's Government`_ 中央人民政府联�
 _`Extradition Bill`_  引渡法案
 
 _`We must not tolerate any action that undermines Hong Kong and the principle of 'one country, two systems'.`_ 绝不容忍破坏香港一国两制方针的行径
+
+_Protesters were charged with rioting, assaulting pollice officer and possession of offensive/deadly weapons respectively after a recent illegal assembly_
+
+
+
+
 
 ### sino-us
 
