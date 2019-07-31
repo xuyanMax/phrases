@@ -14,27 +14,27 @@
 
 **Bench Press 卧推**
 
-Dumbbell Press 哑铃推举
+_Dumbbell Press_ 哑铃推举
 
-Incline Dumbbell Press 上斜哑铃推举
+_Incline Dumbbell Press_ 上斜哑铃推举
 
-Decline Dumbbell Press 下斜哑铃推举
+_Decline Dumbbell Press_ 下斜哑铃推举
 
-哑铃飞鸟(Dumbbell Flyes)
+哑铃飞鸟(_Dumbbell Flyes_)
 
-下斜哑铃飞鸟(Decline Dumbbell Flyes)
+下斜哑铃飞鸟(_Decline Dumbbell Flyes_)
 
-上斜哑铃飞鸟(Incline Dumbbell Flyes)
+上斜哑铃飞鸟(_Incline Dumbbell Flyes_)
 
-中握距哑铃卧推(Dumbbell Bench Press with Medium Grip)
+中握距哑铃卧推(_Dumbbell Bench Press with Medium Grip_)
 
-上斜哑铃卧推(Incline Dumbbell Press)
+上斜哑铃卧推(_Incline Dumbbell Press_)
 
-下斜哑铃卧推(Decline Dumbbell Press)
+下斜哑铃卧推(_Decline Dumbbell Press_)
 
 **Barbell 杠铃**
 
-杠铃卧推 - 中握距(Barbell Bench Press - Medium Grip)
+杠铃卧推 - 中握距(_Barbell Bench Press - Medium Grip_)
 
 
 ## Back 
