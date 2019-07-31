@@ -8,8 +8,8 @@
 - _Gemini_, 双子座
 - _Cancer_, 巨蟹座
 - _Leo_, 狮子座
-- _Virgo_, 
-- _Libra_, 
-- _Scorpius_, 
-- _Sagittarius_, 
-- the Sun also passes through Ophiuchus
+- _Virgo_, 处女座
+- _Libra_, 天秤座
+- _Scorpius_, 天蝎座
+- _Sagittarius_, 射手座
+- _the Sun also passes through Ophiuchus_
