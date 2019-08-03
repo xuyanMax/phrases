@@ -1,7 +1,9 @@
 # Collecations, phrases & vocabularies
 
 ## summary
-中国特色的英文表达, 
+中国特色的英文表达, 美剧常用地道表达,
+
+
 ## Content
 [汽车](./doc/car.md)
 
@@ -59,6 +61,8 @@ _`Chairman of the Central Military Commission`_ 中央军委主席
 
 `State Councile` 国务院
 
+`State councilor` 国务委员
+
 `Ministry of Education` 教育部
 
 `the Ministry of Finance` 财政部
@@ -80,6 +84,8 @@ _National Anthem_ 国歌
 _National People's Congress Standing Committee_ 全国人民代表大会常务理事会
 
 _Babaoshan Revolutionary Cemetery_ 八宝山革命公墓
+
+_A community with a shared future for mankind_ 人类命运共同体
 
 ## Xi-Moments
 _`Anti-corruption`_
@@ -143,9 +149,6 @@ _`We must not tolerate any action that undermines Hong Kong and the principle of
 _Protesters were charged with rioting, assaulting pollice officer and possession of offensive/deadly weapons respectively after a recent illegal assembly_
 
 
-
-
-
 ### sino-us
 
 _`Vice-Premier Liu He`_ 副总理 刘鹤
@@ -178,7 +181,8 @@ _`uncertainties created by Sino-Us trade dispute`__ 中美贸易摩擦产生的�
 
 _`shifting production outside of China`_
 
-_`pass the cost on to consumers for the time being`_
+_``pass the cost on to consumers` for the time being`_
+
 
 
 ## open-up
@@ -260,3 +264,6 @@ _China has invited diplomats, media and experts and scholars from various countr
 
 - June 29, 2019
     - President Xi Jinping (R) meets with US President Donald Trump in Osaka, Japan on. Cease-fire raises hope of the trade war
+- August 2, 2019
+    + the US government says it would impose an additional 10 percent tarric on $300 billion worth of Chinese goods starting Sep 1. The plan will put additional tarrifs on basically all Chinese goods coming into the US, but medicines will not affected.
+    + The Ministry of Commerce strongly dissatisfied with and resolutely opposes to "the US trarrif proposal".
