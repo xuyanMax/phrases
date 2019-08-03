@@ -121,10 +121,5 @@ _While FINA repects the principle of freedom of speech, it has to be conducted i
 
 _As in all major sport organizations, our athelets and their entourages are aware of their responsibilities to respect FINA regulations and not to use FINA events to make personal statements and gestures._
 
-## SINO-US Trade War
-
-- _Unilaterally imposing additional tarrifs is surely not a proper approach for resolving economic and trade issues, and violates WTo rules._ 单方面增加关税
-- _This `back-and-forth yo-yo` approach will cause the efforts made in the prior talks to be invain and will hurt consumers and businesses_ 双方来回悠悠球的方式将导致之前的谈话失效, 并损伤消费者和商业
-
 
 
