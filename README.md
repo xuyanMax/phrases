@@ -1,8 +1,11 @@
 # Collecations, phrases & vocabularies
 
 ## summary
-中国特色的英文表达, 美剧常用地道表达,
+中国特色英文表达;
 
+美剧、电影地道英文表达;
+
+中国改革开放, 政治外交, 双边关系, 全球化下的机遇与挑战;
 
 ## Content
 [汽车](./doc/car.md)
@@ -25,7 +28,9 @@
 
 [学校](./doc/studentLife.md)
 
-[中国特色](#China)
+[中国特色](./doc/china-cpc.md)
+
+[政治](./doc/politics.md)
 
 [习动态](#Xi-Moments)
 
@@ -41,51 +46,6 @@
 
 [中国新疆](#XinJiang)
 
-## China
-
-_`Standing Committee of the Political Bureau of the Communist Party of China Central Committee`_ 中国共产党中央政治局常务委员会
-
-_`China Central Committee of Communist Party`_ 中共中央委员会
-
-_`Political Bureau of the Communist Party`_ 中共中央政治局
-
-_`Chinese Academy of Social Science`_ 中国社会科学院
-
-_`general secretary of the Communist Party of China Central Committee`_, 中共中央总书记
-
-_`Minister of National Defense`_ 国防部
-
-_`Chinese President`_ 国家主席
-
-_`Chairman of the Central Military Commission`_ 中央军委主席
-
-`State Councile` 国务院
-
-`State councilor` 国务委员
-
-`Ministry of Education` 教育部
-
-`the Ministry of Finance` 财政部
-
-`National Development and Reform Commission` 国家发展改革委
-
-_`Foreign Minister spokesman`_ Geng Shuang 
-
-_`State Council Taiwan Affairs Office`_ Ma Xiaoguang
-
-_HE was an excellent member of the Communist Party of China, a time-tested and loyal Communist soldier, a prominent proletarian revolutionary and statesman, as well as an outstanding leader of the Party and the country, the statement said._ 中国共产党的优秀党员, 久经考验的共产主义战士, 杰出的无产阶级革命家、政治家, 党和国家的卓越领导人
-
-_National People's Congress_ 人民代表大会
-
-_March of Volunteers_ 义勇军进行曲
-
-_National Anthem_ 国歌
-
-_National People's Congress Standing Committee_ 全国人民代表大会常务理事会
-
-_Babaoshan Revolutionary Cemetery_ 八宝山革命公墓
-
-_A community with a shared future for mankind_ 人类命运共同体
 
 ## Xi-Moments
 _`Anti-corruption`_
@@ -102,6 +62,29 @@ _The long-term management mechanism of the real estate sector should be implemen
 
 _Proactive fiscal policy and prudent monetary policy should be well implemented," the report said. "Fiscal policy should be strengthened and made more effective, and the tax and fee reduction policy should be implemented more thoroughly._ 要实施好积极的财政政策. 财政政策要加力提效, 继续落实落细减税降费政策
 
+_In a world undergoing dramatic changes, China will `remain confident and resolute in safeguarding its sovereignty and security`, and `maintain its sincerity and goodwill` for `safeguarding world peace` and `promoting common prosperity`, President Xi Jinping said in his 2019 New Year's speech._
+
+**2019 first half year**
+_Since the start of the year, Xi has made `five` overseas visits and attended four multilateral gatherings in `eight` countries to forge broader consensuses and closer partnerships for jointly building a community with a shared future for mankind._
+
+**2019 sino-us**
+
+_China and the US `have highly integrated interests` and `extensive areas of cooperation`, and they should not fall into the traps of conflict and confrontation`, Xi said._
+
+**2019 June sino-russia 70th anniversary**
+_Xi's state visit to Russia in early June came as the two countries are marking the 70th `anniversary of the establishment of diplomatic ties`._
+
+_The Chinese leader, together with Russian President Vladimir Putin, upgraded bilateral relations to a `comprehensive strategic partnership of coordination` for the new era._ 中俄两国全面战略协作伙伴关系
+
+**Belt and Road Initiative**
+_Xi proposed the Belt and Road Initiative in 2013 and frequently promoted it on multiple international occasions. The endeavors have borne fruitful results — some 126 countries and 29 international organizations have signed BRI cooperation documents with China._
+
+_"The BRI has transcended the challenges of geography and un­equal development," and China "has proved itself as a reliable, responsible partner in the international arena"_
+
+**Challenges**
+_While protectionism and fierce global competition for resources have diverted some economies' attention from making a bigger cake to wrestling for a larger slice, Xiplomacy staunchly advocates common efforts to create more shared interests and benefits._
+
+**2019 sino-dprk**
 
 ### Taiwan
 
@@ -182,8 +165,6 @@ _`uncertainties created by Sino-Us trade dispute`__ 中美贸易摩擦产生的�
 _`shifting production outside of China`_
 
 _``pass the cost on to consumers` for the time being`_
-
-
 
 ## open-up
 
