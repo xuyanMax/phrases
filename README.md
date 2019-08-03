@@ -65,6 +65,7 @@ _Proactive fiscal policy and prudent monetary policy should be well implemented,
 _In a world undergoing dramatic changes, China will `remain confident and resolute in safeguarding its sovereignty and security`, and `maintain its sincerity and goodwill` for `safeguarding world peace` and `promoting common prosperity`, President Xi Jinping said in his 2019 New Year's speech._
 
 **2019 first half year**
+
 _Since the start of the year, Xi has made `five` overseas visits and attended four multilateral gatherings in `eight` countries to forge broader consensuses and closer partnerships for jointly building a community with a shared future for mankind._
 
 **2019 sino-us**
@@ -193,7 +194,7 @@ _`China ranked the world's second largest recipient of foreign direct investment
  
 ## Xinjiang
 
-_`Brutally interfer in China's domestic affairs`_ 粗暴干涉中国内政
+_`Brutally interfere in China's domestic affairs`_ 粗暴干涉中国内政
  
 _We urge these countries to `respect facts`, `give up biases`, `observe the purposes and principles of the UN Charter`, and `stop politicizing human right`issues and using Xinjiang-related issues to interfere in China's domestic affairs._ 敦促这些国家尊重事实, 放弃偏见, 遵守联合国宪章, 停滞将人权问题政治化, 并使用新疆问题干涉中国内政
 
