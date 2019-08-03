@@ -72,19 +72,25 @@ _Since the start of the year, Xi has made `five` overseas visits and attended fo
 _China and the US `have highly integrated interests` and `extensive areas of cooperation`, and they should not fall into the traps of conflict and confrontation`, Xi said._
 
 **2019 June sino-russia 70th anniversary**
+
 _Xi's state visit to Russia in early June came as the two countries are marking the 70th `anniversary of the establishment of diplomatic ties`._
 
 _The Chinese leader, together with Russian President Vladimir Putin, upgraded bilateral relations to a `comprehensive strategic partnership of coordination` for the new era._ 中俄两国全面战略协作伙伴关系
 
+**2019 sino-dprk**
+The Chinese president arrived in the Democratic People's Republic of Korea for a state visit two weeks after visiting Russia, the first of its kind in 14 years.
+
+In his talks with DPRK top leader Kim Jong-un, Xi said the China-DPRK relationship has entered a new era. He also re­affirmed China's support for efforts to advance the political 
+
 **Belt and Road Initiative**
+
 _Xi proposed the Belt and Road Initiative in 2013 and frequently promoted it on multiple international occasions. The endeavors have borne fruitful results — some 126 countries and 29 international organizations have signed BRI cooperation documents with China._
 
 _"The BRI has transcended the challenges of geography and un­equal development," and China "has proved itself as a reliable, responsible partner in the international arena"_
 
 **Challenges**
-_While protectionism and fierce global competition for resources have diverted some economies' attention from making a bigger cake to wrestling for a larger slice, Xiplomacy staunchly advocates common efforts to create more shared interests and benefits._
 
-**2019 sino-dprk**
+_While protectionism and fierce global competition for resources have diverted some economies' attention from making a bigger cake to wrestling for a larger slice, Xiplomacy staunchly advocates common efforts to create more shared interests and benefits._
 
 ### Taiwan
 
