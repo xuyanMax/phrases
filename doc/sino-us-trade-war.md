@@ -1,39 +1,40 @@
 # sino-us trade war
 
-_`Vice-Premier Liu He`_ 副总理 刘鹤
+_`Vice-Premier Liu He`_ |副总理 刘鹤
+:---:|:---:
+_`US Trade Representative Robert Lighthizer`_ |美国贸易代表 
 
-_`US Trade Representative Robert Lighthizer`_ 美国贸易代表 
+_`US Treasury Secretary Steven Mnuchin`_ 美国财政部长 |Mnuchin
 
-_`US Treasury Secretary Steven Mnuchin`_ 美国财政部长 Mnuchin
+_`Minister of Commerce`_ |商务部
 
-_`Minister of Commerce`_ 商务部
+_`trade friction`_ |贸易摩擦
 
-_`trade friction`_ 贸易摩擦
+_`Reach consensus by the two heads of state during the G20 Summit`_ |达成共识
 
-_`Reach consensus by the two heads of state during the G20 Summit`_ 达成共识
+_`stabilize bilateral relations`_ |稳定双边关系
 
-_`stabilize bilateral relations`_ 稳定双边关系
+_`Consensus sets a positive tone for future high-level economic and trade talks`_ |共识设定了积极的未来高水平经贸对话的基调
 
-_`Consensus sets a positive tone for future high-level economic and trade talks`_ 共识设定了积极的未来高水平经贸对话的基调
+_`solve differences and conflicts`_ |解决分歧和冲突
 
-_`solve differences and conflicts`_ 解决分歧和冲突
+_`win-win situation/results`_ |双赢局面
 
-_`win-win situation/results`_ 双赢局面
+_`advance talks, which stalled in May`_ |推动于五月份停滞的贸易谈话
 
-_`advance talks, which stalled in May`_ 推动于五月份停滞的贸易谈话
+_`Entity List`_ |实体清单
 
-_`Entity List`_ 实体清单
+_`Huawei was put on the Entity List in May`_ |华为五月被列入实体清单
 
-_`Huawei was put on the Entity List in May`_ 华为五月被列入实体清单
+_`uncertainties created by Sino-Us trade dispute`__ |中美贸易摩擦产生的不稳定因素
 
-_`uncertainties created by Sino-Us trade dispute`__ 中美贸易摩擦产生的不稳定因素
+_`shifting production outside of China`_|
 
-_`shifting production outside of China`_
+_``pass the cost on to consumers` for the time being`_|
 
-_``pass the cost on to consumers` for the time being`_
+_Unilaterally imposing additional tarrifs is surely not a proper approach for resolving economic and trade issues, and violates WTo rules._ |单方面增加关税
 
-- _Unilaterally imposing additional tarrifs is surely not a proper approach for resolving economic and trade issues, and violates WTo rules._ 单方面增加关税
-- _This `back-and-forth yo-yo` approach will cause the efforts made in the prior talks to be invain and will hurt consumers and businesses_ 双方来回悠悠球的方式将导致之前的谈话失效, 并损伤消费者和商业
+_This `back-and-forth yo-yo` approach will cause the efforts made in the prior talks to be invain and will hurt consumers and businesse | 双方来回悠悠球的方式将导致之前的谈话失效, 并损伤消费者和商业
 
 ## Sino-Us trade war Timeline 
 
