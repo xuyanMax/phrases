@@ -9,9 +9,9 @@
 
 ## Content
 
-- [工业](./dod/industry)
+- [工业](./doc/industry)
 
-- [世界知名组织](./org)
+- [世界知名组织](./doc/org)
 
 - [国家介绍](./doc/countries)
 
@@ -23,7 +23,7 @@
 
 - [词语表达](./doc/phrase.md)
 
-- [中国特色](./doc/china-cpc.md)
+- [中国特色](./doc/china)
 
 - [习动态](#Xi-Moments)
 
