@@ -8,11 +8,10 @@
 中国改革开放, 政治外交, 双边关系, 全球化下的机遇与挑战;
 
 ## Content
-- [汽车](./doc/car.md)
 
-- [摩托车](./doc/motor.md)
+- [工业](./dod/industry)
 
-- [健身](./doc/bodyBuilder.md)
+- [世界知名组织](./org)
 
 - [国家介绍](./doc/countries)
 
