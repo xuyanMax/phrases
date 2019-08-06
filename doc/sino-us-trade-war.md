@@ -2,9 +2,9 @@
 
 _`Vice-Premier Liu He`_ | 副总理 刘鹤
 :---:|:---:
-_`US Trade Representative Robert Lighthizer`_ | 美国贸易代表 
+`US Trade Representative Robert Lighthizer` | 美国贸易代表 
 
-_`US Treasury Secretary Steven Mnuchin`_ | 美国财政部长 Mnuchin
+`US Treasury Secretary Steven Mnuchin` | 美国财政部长 Mnuchin
 
 _`Minister of Commerce`_ | 商务部
 
