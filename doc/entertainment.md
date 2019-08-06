@@ -1,6 +1,6 @@
 
 
-Culture & Entertainment| Translation |
+Culture & Entertainment| Translation 
 :---:|:---:
 History Museum|历史博物馆
 Natural History Museum|自然历史博物馆

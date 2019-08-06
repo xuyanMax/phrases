@@ -4,11 +4,11 @@ _`Vice-Premier Liu He`_ | 副总理 刘鹤
 :---:|:---:
 `US Trade Representative Robert Lighthizer` | 美国贸易代表 
 
-`US Treasury Secretary Steven Mnuchin` | 美国财政部长 Mnuchin
+`US Treasury Secretary Steven Mnuchin` | 美国财政部长Mnuchin
 
-_`Minister of Commerce`_ | 商务部
+`Minister of Commerce` | 商务部
 
-_`trade friction`_ | 贸易摩擦
+`trade friction` | 贸易摩擦
 
 _`Reach consensus by the two heads of state during the G20 Summit`_ | 达成共识
 
