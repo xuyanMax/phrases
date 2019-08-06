@@ -14,31 +14,23 @@
 
 - [健身](./doc/bodyBuilder.md)
 
-- [UK](./doc/uk.md)
+- [国家介绍](./doc/countries)
 
-- [USA](./doc/usa.md)
+- [Movies & TV Series](./doc/tvseries_or_movies)
 
-- [USA TV Series](./doc/ustvseries.md)
+- [衣食住行标准翻译](./doc/national_standard_trans)
 
-- [Zodiac](./doc/constellation.md)
-
-- [ARM 武器](./doc/arm.md)
+- [中美关系](./doc/sino-us)
 
 - [词语表达](./doc/phrase.md)
 
-- [学校](./doc/studentLife.md)
-
 - [中国特色](./doc/china-cpc.md)
-
-- [政治](./doc/politics.md)
 
 - [习动态](#Xi-Moments)
 
 - [台湾](#Taiwan)
 
 - [香港](#Hongkong)
-
-- [中美贸易战](#Sino-Us)
 
 - [中国改革开发](#open-up)
 
