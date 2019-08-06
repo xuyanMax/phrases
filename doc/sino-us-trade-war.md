@@ -16,9 +16,9 @@ _`Entity List`_ | 实体清单
 _`Huawei was put on the Entity List in May`_ | 华为五月被列入实体清单
 _`uncertainties created by Sino-Us trade dispute`_ | 中美贸易摩擦产生的不稳定因素
 _`shifting production outside of China`_ | ..
-_``pass the cost on to consumers` for the time being`_ | ..
+_`pass the cost on to consumers for the time being`_ | ..
 _Unilaterally imposing additional tarrifs is surely not a proper approach for resolving economic and trade issues, and violates WTo rules._ | 单方面增加关税
-_This `back-and-forth yo-yo` approach will cause the efforts made in the prior talks to be invain and will hurt consumers and businesse | 双方来回悠悠球的方式将导致之前的谈话失效, 并损伤消费者和商业
+_This `back-and-forth yo-yo` approach will cause the efforts made in the prior talks to be invain and will hurt consumers and businesse_ | 双方来回悠悠球的方式将导致之前的谈话失效, 并损伤消费者和商业
 
 ## Sino-Us trade war Timeline 
 
