@@ -28,7 +28,7 @@ _the communist youth league_ |共青团
 _the central committee of the communist youth league_ |共青团中央
 _Miss Class_ |班花
 _Mr. Class_ |班草
-_class atmosphere_ 班风
+_class atmosphere_ |班风
 _class song_ |班歌
 _commissary in charge of discipline/health_ |纪律、卫生委员
 _class meeting_ |班会
