@@ -35,5 +35,41 @@ _class meeting_ |班会
 _monitor and vice-monitor_ |班长、班副
 _experimental classs_ |实验班
 _key class and non-key class_ |重点班、普通版
+Administration Building|行政楼
+Laboratory Building|实验楼
+Circulation|借书处
+Book Return/Drop|还书处
+Reading Room|阅览室
+Archives Center|档案馆
+Auditorium/Assemby Hall|大礼堂
+Student Dorm|宿舍
+Lecture Hall|学术报告厅
+Multimedia Classroom|多媒体教室
+Course Registration Card|听课证
+Class Schedule/Timeable|课程表
+Surveillance Camera|监控摄像
+School/Shuttle Bus|校车
+No Skateboarding|禁止滑板
+No Food Allowed Inside|不得带入食物
+No Seat Reservation|不的占座
+Women Only|男士止步
+Administration Office|行政处
+Finance Office|财务处
+Audit Office|审计处
+Moral Education Office|政教处
+Human Resources Office|人事处
+Student Affairs Office|学生事务中心
+Press/Publishing House|出版社
+Editorial Office|编辑部
+Information Center|信息中心
+Office of Academic Research|科研处
+President's Office|校长室
+Student Union|学生会
+Admissions Office|招生办
+Campus Broadcasting Station|学校广播站
+Student ID Card|学生卡
+Campus Card|校园卡
+
+
 
 
