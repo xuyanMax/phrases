@@ -85,3 +85,18 @@ _The statement of FINA clearly said that "Mr Sun Yang did not commit an anti-dop
 _Taking such a radical measure as to avoid joining the podium should not be seen as a protest, but an insult._|...
 _While FINA repects the principle of freedom of speech, it has to be conducted in the right context._|...
 _As in all major sport organizations, our athelets and their entourages are aware of their responsibilities to respect FINA regulations and not to use FINA events to make personal statements and gestures._|...
+
+
+## Coach disrepect China 
+
+陈述|翻译
+:---:|:---:
+_The controversy started when images of a Versace T-shirt and hoodie with a printed design showing Hong Kong and Macao as separate countries began to circulate on Sina Weibo over the weekend._|
+
+_Never have I wanted to disrespect China's national sovereignty_ |
+
+_personally apologize for such inaccuracy and for any distress that it might have caused_|
+
+_It was our negligence, and we are deeply sorry for the ramifications we caused," it said, adding that "we love China and have resolute respect for its territorial and national sovereignty"._|
+
+
