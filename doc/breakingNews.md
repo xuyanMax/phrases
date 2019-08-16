@@ -57,11 +57,8 @@ _`No existing laws about ** have executable details about individual cases`_.| �
 
 > "In the sport of swimming, when you miss one day, it takes two days to get back. For me when I spent six years straight not missing a single day, I was getting so much more benefit out of that than other athletes who were training for six days."
 > "If you take Sunday off, you aren't back to where you were until Tuesday. I was training so much. Now when I get in, I don't have that feel of the water that I had before. I've lost it. `So, no comeback, you guys`."
-> -- Michael Phelps
 > 
-_Thank the crowd for braving the clement weather to show their solidarity in safeguarding the city_ 守卫香港的决心
-
-_At the end of the rally, a group of youth representatives read a declaration `appealing to` the public never to `resort to violence`, `to talk instead of to argue` and `to unite instead of to fight`._
+> -- Michael Phelps
 
 ## Richard Liu's Case
 Sentence|Trans
@@ -92,11 +89,8 @@ _As in all major sport organizations, our athelets and their entourages are awar
 陈述|翻译
 :---:|:---:
 _The controversy started when images of a Versace T-shirt and hoodie with a printed design showing Hong Kong and Macao as separate countries began to circulate on Sina Weibo over the weekend._|
-
 _Never have I wanted to disrespect China's national sovereignty_ |
-
 _personally apologize for such inaccuracy and for any distress that it might have caused_|
-
 _It was our negligence, and we are deeply sorry for the ramifications we caused," it said, adding that "we love China and have resolute respect for its territorial and national sovereignty"._|
 
 

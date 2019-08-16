@@ -14,7 +14,11 @@ _`We must not tolerate any action that undermines Hong Kong and the principle of
 
 2019年6月香港引渡法案暴乱事件|翻译
 :---:|:---:
-_Protesters were charged with rioting, assaulting pollice officer and possession of offensive/deadly weapons respectively after a recent illegal assembly_
+_Thank the crowd for braving the clement weather to show their solidarity in safeguarding the city_ | 守卫香港的决心
+
+_At the end of the rally, a group of youth representatives read a declaration `appealing to` the public never to `resort to violence`, `to talk instead of to argue` and `to unite instead of to fight`._|
+
+_Protesters were charged with rioting, assaulting pollice officer and possession of offensive/deadly weapons respectively after a recent illegal assembly_|
 
 _Condemnation for violence poured in after Global Times reporter Fu Guohao was illegally seized and brutally assaulted by rioters at the Hong Kong International Airport around midnight Tuesday._| Global Times | Updated: 2019-08-14 07:57 
 
