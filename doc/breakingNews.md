@@ -41,7 +41,7 @@ _`A alone does not tell the full story`_ |仅仅A本身, 不够全面得出...
 _`Mistakenly predicting "not sick" for a person who actually is sick could be deadly`_.|..
 
 ## Speaking 
-Sentence|Trans
+表达|翻译
 :---:|:---:
 _`With that caveat in mind`_, `it is a good way to ...` |将这个忠告谨记在心
 _`Keep in mind the above caveat`_ |将这些忠告谨记在心
@@ -54,6 +54,7 @@ _`We need a more find grained way of looking at the way that ...`_ |..
 _`attemp to shift responsibility onto someone else`_ |试图推卸责任到他人身上
 _`Some principles lack details suitable for implementation`_|有些原则缺乏适合实施的细节
 _`No existing laws about ** have executable details about individual cases`_.| 现行法律对于个别案例没有可实施细节
+do the heavy lifting for us|为我们减轻负担
 
 > "In the sport of swimming, when you miss one day, it takes two days to get back. For me when I spent six years straight not missing a single day, I was getting so much more benefit out of that than other athletes who were training for six days."
 > "If you take Sunday off, you aren't back to where you were until Tuesday. I was training so much. Now when I get in, I don't have that feel of the water that I had before. I've lost it. `So, no comeback, you guys`."
@@ -68,7 +69,6 @@ _Police released 911 transcripts, text messages sent from victim after the alleg
 _Liu tells the police it was `consensual`_ |刘强东告诉警方这是双方一致同意的
 _While prosecutors decided against `pressing charges` against Liu, the victim in April `filed a lawsuit` against the tech executive_ |当控诉方决定不对刘起诉时, 受害人于四月对京东大佬提起诉讼
 _The victim says her family cannot put food on the table_ |受害人声称自己家庭没有钱
-
 _She was forced and he started to molest her in his vehicle, and the she begged him not to_ |她声称, 自己是被强迫的, 且刘强东在车里就对自己骚扰, 而她请求他不要这样
 
 ## Sun Yang 
