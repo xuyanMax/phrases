@@ -94,4 +94,10 @@ _personally apologize for such inaccuracy and for any distress that it might hav
 _It was our negligence, and we are deeply sorry for the ramifications we caused," it said, adding that "we love China and have resolute respect for its territorial and national sovereignty"._|
 
 
+## India & Pakistan
+
+陈述|翻译
+:---:|:---:
+China urged both #India and #Pakistan to “refrain from taking any unilateral action which might further aggravate| 
+
 

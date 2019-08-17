@@ -30,16 +30,25 @@
 - _Serbia, Belgrade_
 
 
-- _graffiti_ 涂鸦
-- _barricade_ 路障
-- _roadblocks_ 路障
-- _antagonist_ vs. _protagonist_ 反派 vs 主要角色
-- _prosecutor_ 公诉人
-- _cemetery_ 殡仪馆
-- _cremate_ 火化
-- _Release on bail_ 
-- _lamppost_ 路灯
-- _barricade_ 路障
-- _roadblock_ 路障
-- _railing_ 栏杆
-- _iron rod_ 铁棒
+## 新词汇、词组
+
+词汇|翻译
+:---:|:---:
+_graffiti_ |涂鸦
+_barricade_ |路障
+_roadblocks_ |路障
+_antagonist_ vs. _protagonist_ |反派 vs 主要角色
+_prosecutor_ |公诉人
+_cemetery_ |殡仪馆
+_cremate_ |火化
+_Release on bail_ |保释
+_lamppost_ |路灯
+_barricade_ |路障
+_roadblock_ |路障
+_railing_ |栏杆
+_iron rod_ |铁棒 
+_disservice_|伤害
+_precipice_|悬崖
+_dissident_|持不同意见者
+_thoroughfare_|大道
+_sits-in_|静坐
