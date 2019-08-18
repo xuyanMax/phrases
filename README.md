@@ -25,17 +25,9 @@
 
 - [中国特色](./doc/china)
 
+- [爆炸新闻](./breakingNews.md)
+
 - [习动态](#Xi-Moments)
-
-- [台湾](#Taiwan)
-
-- [香港](#Hongkong)
-
-- [中国改革开发](#open-up)
-
-- [中国人权问题](#Human-Rights)
-
-- [中国新疆](#XinJiang)
 
 ## Xi-Moments
 _`Anti-corruption`_
@@ -84,66 +76,5 @@ _"The BRI has transcended the challenges of geography and un­equal development,
 
 _While protectionism and fierce global competition for resources have diverted some economies' attention from making a bigger cake to wrestling for a larger slice, Xiplomacy staunchly advocates common efforts to create more shared interests and benefits._
 
-### Taiwan
-
-_Taiwan is an `inseparable part` of China's territory_. 台湾是中国不可分割的一部分
-
-_The Taiwan question is a matter of Chinese `core interests` and is `nonnegotiable`_ 台湾问题是中国核心利益, 无商议余地
-
-_Taiwan is an inseparable part of China and the Taiwan question is China's internal affair in which no foreign interference is allowed_ 台湾问题是中国内政, 外国干预不被允许
-
-_China's adamant `opposition against US arms sales to Taiwan` has always been clear and consistent_ 中国坚定反对美国对台军售一直以来都是清晰和一贯的
-
-_separatists forces of `Taiwan independence`_ 台独分裂势力
-
-_`Democratic Progress Party`_ 民进党
-
-_Any act of relying on `foreign forces` and elevating `cross-Straits tensions`will definitely backfire and bring dire consequences_. 依靠外国势力,家中两岸紧张关系的行为, 都必将失败
-
-_China urged the United States to immediately `revoke` its planned military sale to Taiwan at an estimated cost of $2.2 billion, and end its weapon sales and military ties with Taiwan_. 
-
-_China's government and people are firmly determined to safeguard `national sovereignty` and `territorial integrity`_. 
-
-_China urged the US to abide by the `one-China` policy and the stipulations of the `three China-US joint communiques`_. 敦促美方遵守一个中国原则方针, 三方共识条款
-
-_Don't underestimate China's will to safeguard its soverighty and territorial integrity and to `stand againt foreign interference`_. 不要低估中国捍卫主权和领土完整的决心, 反对外国干涉
-
-_China urges the US to keep its promises and uphold the one-China principle, immediately cancel the arms deal, and cut all military interactions with Taiwan to avoid further damage to military relations and bilateral ties_ 中国敦促美方遵守承诺, 坚持一个中国原则, 立刻取消武器订单, 切断与台湾的所有军事交流, 避免进一步损害中美军事联系和双边关系
-
-_The wrongful actions by the US have seriously `violated the one-China principle` and the `three Sino-US joint communiques`, and they have interfered with China's domestic affairs and violated its sovereignty and security interests_ 美国的错误行径违背一个中国原则和中美三方共识, 干涉中国内政并且损害了主权和安全利益
-
-_It is typical for the US to play the Taiwan card as leverage to pressure China_ 玩弄台湾牌施压中国是美国一贯手段
-
-_If the US keeps ignoring China's `resolve and bottom line`, China will have no choice but to strongly counter_ 如果美国继续忽视中国的决心和底线, 中国只好强烈反抗
-
-## open-up
-
-_`no massive withdrawal of foreign investment`_ 大规模外资投资撤资
-
-_`legitimate rights and interests of foreign enterprises`_ 外资企业的合法的权利和利益
-
-_`Foreign Investment Law`_ 外商投资法
-
-_`China ranked the world's second largest recipient of foreign direct investment, after the United States`_ 中国排在美国之后, 世界第二大外商投资国
-
-`promote investment liberalization and facilitation` 提升投资自由和便利
-
-
-## Human-Rights
-2019-07-12
-> _A letter issued by 22 countries criticizing human rights conditions in the Xinjiang Uygur autonomous region ignores the truth and `makes groudless accusations` and attempts to smear China, Beijing said on Tuesday._ 
-
-> Saudi Arabia, Russia and 35 other states have written to the United Nations supporting China’s policies in its western region of Xinjiang
- 
-## Xinjiang
-
-_`Brutally interfere in China's domestic affairs`_ 粗暴干涉中国内政
- 
-_We urge these countries to `respect facts`, `give up biases`, `observe the purposes and principles of the UN Charter`, and `stop politicizing human right`issues and using Xinjiang-related issues to interfere in China's domestic affairs._ 敦促这些国家尊重事实, 放弃偏见, 遵守联合国宪章, 停滞将人权问题政治化, 并使用新疆问题干涉中国内政
-
-_Xinjiang's affairs are purely China's domestic affairs and concern `China's sovereignty, security and territorial integrity`, and China's government and people are best qualified to speak on Xinjiang-related issues, in which no countries or foreign forces are allowed to interfere_ 新疆事务纯属中国内政, 关系中国主权、安全和领土完整. 中国政府和人民最有资格谈论新疆事物, 其他国家和外部势力不允许干预
-
-_The autonomous region, facing serious `threats from terrorism and extremism`, has rehabilitated extremists and taken a series of anti-terrorist measures, according to law, such as setting up `vocational education and training centers`._ 自治区面临来自恐怖主义和极端主义的严重威胁, 极端分子抬头, 自治区一句法律采取了一系列反恐措施, 包括创建职业学院和培训中心. 
-
-_China has invited diplomats, media and experts and scholars from various countries to visit Xinjiang and see the truth for themselves_ 中国已经要求全球的外交官、媒体、专家和学者前往新疆考察真相
+selves_ 中国已经要求全球的外交官、媒体、专家和学者前往新疆考察真相
 

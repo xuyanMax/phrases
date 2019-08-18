@@ -7,6 +7,8 @@
 - 二头肌 _biceps brachii_
 - 三头肌肉 _Triceps brachii_
 - 背阔肌 _latissimus dorsi_
+- 锁握
+- 农夫行走
 
 
 ## Breast
