@@ -39,4 +39,15 @@ _Decline Dumbbell Press_ 下斜哑铃推举
 
 ## Back 
 
+## 胸部训练 
+
+Wu Long & Charles | 训练动作
+:---:|:---:
+Decline Machine Press (upper part of the pec; 4 Sets. 10-12 Reps) |悍马机上斜推胸(关节不要锁死, 动作要慢; 4组 每组10-12次)
+Dumbell Incline Press|哑铃上斜推胸(手肘内扣, 朝前, 将压力集中在胸部, 减少肩部发力, 因此重量不需要很大; 手肘打开, 180度情况下, 重量会上一个台阶)
+Incline Dumbell Fly (4 Sets. 10-14 Reps)|上斜哑铃飞鸟
+Flat Barbell Bench Press (4 Sets. 10-15 Reps) | 杠铃平板卧推
+## 二头肌
+
+
 
