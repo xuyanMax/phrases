@@ -52,3 +52,4 @@ _precipice_|悬崖
 _dissident_|持不同意见者
 _thoroughfare_|大道
 _sits-in_|静坐
+_take a leap of faith_|大胆一试
