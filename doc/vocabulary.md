@@ -32,8 +32,8 @@
 
 ## 新词汇、词组
 
-词汇|翻译
-:---:|:---:
+词汇|翻译|短语|翻译
+:---:|:---:|:---:|:---:
 _graffiti_ |涂鸦
 _barricade_ |路障
 _roadblocks_ |路障
@@ -41,7 +41,6 @@ _antagonist_ vs. _protagonist_ |反派 vs 主要角色
 _prosecutor_ |公诉人
 _cemetery_ |殡仪馆
 _cremate_ |火化
-_Release on bail_ |保释
 _lamppost_ |路灯
 _barricade_ |路障
 _roadblock_ |路障
@@ -53,3 +52,4 @@ _dissident_|持不同意见者
 _thoroughfare_|大道
 _sits-in_|静坐
 _take a leap of faith_|大胆一试
+_bury my secrets_|隐藏秘密
