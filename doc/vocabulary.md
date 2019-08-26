@@ -53,3 +53,20 @@ _thoroughfare_|大道
 _sits-in_|静坐
 _take a leap of faith_|大胆一试
 _bury my secrets_|隐藏秘密
+
+
+
+## 表示“关于”的词组
+
+`in accordance with`, 
+`as reported by`,
+`as stated in`,
+`conforming to`,
+`in agreement with`,
+`in consonance with`,
+`in keeping with`,
+`in line with`,
+`just as`,
+`pursuant to`,
+`to the degree that`
+
