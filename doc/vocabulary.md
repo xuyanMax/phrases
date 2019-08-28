@@ -8,29 +8,27 @@
 ## Agree
 
 
-
 ## Professional 
-- _interviewer_ 采访者 
-- _interviewee_ 被面试人员
+:---:|:---:
+_interviewer_ | 采访者 
+_interviewee_ | 被面试人员 
 
 ## Sports
-- _podium_ 领奖台 
-- _World Aquatics Championships_ 世界游泳锦标赛
+:---:|:---:
+_podium_ |领奖台 
+_World Aquatics Championships_ | 世界游泳锦标赛
 
 ## China
-- _Great Hall of the People_ 人民大会堂
+:---:|:---:
+_Great Hall of the People_ | 人民大会堂
 
 ## Capital Cities
-
-- _China, Beijing_
-- _USA, Washington DC_ 
-- _UK, London_
-- _Germany, Berlin_
-- _France, Paris_
-- _Serbia, Belgrade_
+:---:|:---:|:---:|:---:
+_China, Beijing_|_USA, Washington DC_ |_UK, London_|_Germany, Berlin_
+_France, Paris_|_Serbia, Belgrade_|
 
 
-## 新词汇、词组
+## 词汇
 
 词汇|翻译|短语|翻译
 :---:|:---:|:---:|:---:
@@ -53,6 +51,7 @@ _thoroughfare_|大道
 _sits-in_|静坐
 _take a leap of faith_|大胆一试
 _bury my secrets_|隐藏秘密
+_consolation to_ |安慰
 
 
 
@@ -69,4 +68,14 @@ _bury my secrets_|隐藏秘密
 `just as`,
 `pursuant to`,
 `to the degree that`
+
+
+
+## 表示“一些, 许多”的词组
+`a lot`, `a number of `, `an ocean of`, `a bundle of`, ``
+
+## 表示“简单”
+`simple`, `uncomplicated`
+
+
 
