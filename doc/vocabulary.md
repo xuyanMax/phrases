@@ -19,10 +19,12 @@ _podium_ |领奖台
 _World Aquatics Championships_ | 世界游泳锦标赛
 
 ## China
+Eng|Chinese
 :---:|:---:
 _Great Hall of the People_ | 人民大会堂
 
 ## Capital Cities
+国家|首都|国家|首都
 :---:|:---:|:---:|:---:
 _China, Beijing_|_USA, Washington DC_ |_UK, London_|_Germany, Berlin_
 _France, Paris_|_Serbia, Belgrade_|
@@ -32,7 +34,7 @@ _France, Paris_|_Serbia, Belgrade_|
 
 词汇|翻译|短语|翻译
 :---:|:---:|:---:|:---:
-_graffiti_ |涂鸦
+_graffiti_ |涂鸦| | 
 _barricade_ |路障
 _roadblocks_ |路障
 _antagonist_ vs. _protagonist_ |反派 vs 主要角色
