@@ -56,6 +56,12 @@ _sits-in_|静坐
 _take a leap of faith_|大胆一试
 _bury my secrets_|隐藏秘密
 _consolation to_ |安慰
+_tactical_| 战略战术的
+_sub-sonic_|亚音速
+_warplane_|战斗机
+_destroyer_|驱逐舰
+_aircraft carrier_|航母
+_amphibious_|两栖
 
 ### Business 
 
