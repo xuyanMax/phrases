@@ -57,7 +57,7 @@ _I may be social, but `that's the boundary line I won't cross`._ |这是我不�
 _We just smash through with a sledgehammer_ |我们只需要用大锤子砸穿
 _Okay, let's get on it._ |好了, 我们干活吧
 _We got a couple of hours to get things done_ |只剩下几小时把事情做好了
-_How about you elaborate on that?|_ 你能不能帮忙解释下
+_How about you elaborate on that?_| 你能不能帮忙解释下
 _How about you stop with all the questions?_ |你能不能不要问这些问题
 _`What do you think it could be`, some anti-death penalty fanatic?_ |你觉得可能是谁, 某个狂热的死刑反对分子.
 _Can I ask you a question? Do you really think that you're going to get to the bottom of this?_| 你是否真的认为,我们能查个水落石出?
