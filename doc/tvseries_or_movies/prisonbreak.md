@@ -42,9 +42,7 @@ _The company frames Lincoln because of his father Aldo Burrows, and his former c
 A|V
 :---:|:---:
 _`Twist the knif cut in my back`_ |扭动插在我背上的刀
-
 _`Why am I finding it so tough to believe`_|
-
 _`I am a grown man, how about you give it straight.`_|
 
 ### Season 1, Episode 17
