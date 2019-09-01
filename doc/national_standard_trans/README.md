@@ -13,3 +13,4 @@
 - [医疗服务](./medicalservice.md)
 - [健身](./bodyBuilder.md)
 - [酒店介绍](./hotles.md)
+- [邮电通信](./posttelecom.md)
