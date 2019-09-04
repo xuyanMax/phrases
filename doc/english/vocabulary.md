@@ -63,6 +63,7 @@ _destroyer_|驱逐舰
 _aircraft carrier_|航母
 _amphibious_|两栖
 _failover_|自动恢复
+_actor in a leading role_|主演
 
 ### Business 
 
