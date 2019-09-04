@@ -1,7 +1,8 @@
-
-## 发音课
-
 ## 晨读课
+
+### Certainty and probability
+
+<div align="center"> <img src="https://github.com/xuyanMax/image-cache/blob/master/bingo/chendu_1.png" width="50%" height="50%" /> </div> 
 
 ## 美剧
 
@@ -9,6 +10,5 @@
 
 ### The Ranche 牧场趣事
 
-### 
 
 

@@ -20,3 +20,12 @@
 ## 表示“简单”
 `simple`, `uncomplicated`
 
+
+## 短语
+
+- `full of the joys of spring` 非常高兴, 充满喜悦
+    + Mood is cheerful and lively -- like springtime -- bright, sunny, flowers growing, new animals being born, birds flying around...
+    + Emily's full of the joys  of spring today.
+    + Raj seems full of the joys of spring today.
+    + I'm full of the joys of spring today.
+
