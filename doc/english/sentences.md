@@ -63,14 +63,16 @@ Here/There/Now/Then + come/be/go/lie/run + 主语
 - `Such was Einstein` a man of achievements, deep thoughts, but with simple habits.
 - `Gone are the days` when teachers were looked down upon.
 - 
-#### 2.5 某些表语位于句首, 保持句子平衡, 以强调表语. 句型“表语(介词短语或形容词) + 系动词 + 主语(必须是名词)”
+#### 2.5 某些表语位于句首, 保持句子平衡, 以强调表语. 句型“表语(介词短语/形容词/过去分词/进行时态的现在分词) + 系动词 + 主语(必须是名词)”
 
 
 例句:
 - `Among the goods` are Christmas trees, flowers, candles and toys.
 - `Present at the meeting` were Mr. White and many other guests. 
+- `Seated` on the ground are a group of young people.
+- `Lying on the floor` was a boy.
+- `Standing besides the desk` was a teacher.
 
-
-    
-
+### 3. 部分倒装
+https://wenku.baidu.com/view/5fbae907cdbff121dd36a32d7375a417866fc16e.html
 
