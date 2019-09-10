@@ -28,4 +28,9 @@
     + Emily's full of the joys  of spring today.
     + Raj seems full of the joys of spring today.
     + I'm full of the joys of spring today.
+- `by and large` 大体上
+    + The question we have at the moment, by and large, is that the conventional approach does not work.
+- `at large`
+    + The criminals are still at large.
+    + 
 
