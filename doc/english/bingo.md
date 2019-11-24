@@ -30,7 +30,19 @@
 - Have been doing + for the past...
 -   I have been sitting here for the past 3 years. 
 
----
-
 ### 1. Certainty & probability (2)
-        
+
+
+
+## Phrases
+eng|chi
+:===:===:
+pig out | 大吃大喝
+as cool as cucumber| 像黄瓜一样酷
+hold the horses| 不要急
+when pig flies| 绝不可能
+everything but the kitchen sink|
+put a sock in it| asking a noisy person or a gruop to be quiet or to shut up
+drink like a fish|喝多了, 牛饮
+love me, love my dog|爱屋及乌
+use your loaf|动动脑子

@@ -76,3 +76,11 @@ Here/There/Now/Then + come/be/go/lie/run + 主语
 ### 3. 部分倒装
 https://wenku.baidu.com/view/5fbae907cdbff121dd36a32d7375a417866fc16e.html
 
+## Beautiful Sentences 
+sentence|tras
+:---:|:---:
+Even though the downpour turned the city upside down, I'd still embrace you.|就算大雨把这座城市跌倒, 我会给你怀抱
+A wasted today is longed by many who died yesterday. The present you loath for will become the past that you cannot return to.|你所浪费的昨天, 是所有死去的人奢望的明天; 你所厌恶的现在, 是未来的你回不去的曾经. 
+When you feel like quitting, think about why you started. | 当你想放弃, 想想当初为什么开始
+So this leads us to a problem where we've taken a little bit of a step back, but that's okay. Sometimes you take one step back to take two steps forward.|
+How about we get together for dinner on evening - you pick the place but dinners' on me. 

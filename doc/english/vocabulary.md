@@ -64,6 +64,15 @@ _aircraft carrier_|航母
 _amphibious_|两栖
 _failover_|自动恢复
 _actor in a leading role_|主演
+_time allotment_|时间段
+_restitution_|归还
+_enforcement proceeding_|强制执行
+_disgorgement_|非法所得
+_palette_|面板
+_repercussion_|事故
+_mishaps_|小事故
+_efficacy_|功效
+
 
 ### Business 
 
