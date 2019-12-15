@@ -72,6 +72,10 @@ _palette_|面板
 _repercussion_|事故
 _mishaps_|小事故
 _efficacy_|功效
+_corpus_|文集, 文献, a collection of written texts
+_lipgloss_|唇彩
+_Christianity, Judaism, Islam, Buddhism, Hinduism_|教派
+_leeway_| 余地
 
 
 ### Business 
@@ -79,6 +83,19 @@ _efficacy_|功效
 ### Engineering
 
 ### Reporting Verbs
+
+### Movies
+The Shawshank Redemption
+
+Fight Club
+
+Once upon a time in America
+
+Once upon a time in Hollywood
+
+Once upon a time in West
+
+Godfather
 
 
 

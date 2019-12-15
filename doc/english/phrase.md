@@ -61,7 +61,30 @@
 - `due diligence` check off every acitivity you need to complete before you make a decision
 - `regulatory filing` 监管备案
 - `regulatory compliance` 法规服从
-- `need-to-know basis` 只需要知道
-- `on a whim`突发奇想, 没有规划的想法
+- `on a need-to-know basis` 只需要知道
+    + When you tell someone something on a need-to-know basis, you only tell them the facts they need to know at the time they need to know them, and nothing more.
+- `on a whim` 突发奇想, 没有规划的想法
     + go out on a whim 
+- `tax evasion` 避税
+- `tipping points` 引爆点
+    + The tipping point is about the theory that something like behaviors spread just like viruses. 
+- `level out.` to stop going up or down 
+    + Divorce rates are leveling out for the first time in decades.
+- `drop in/by` call informally and briefly as a visitor.
+    + They would unexpectedly drop in on us
+- `sure-fire sign` 万无一失的信号
+- `touch barrier`
+- `preening or primping`, 打扮
+- `tie her hair up`.
+- `dither about` 犹豫
+- `easy peasy` 十分简单
+- `hone your craft` 打磨手艺, 精湛技艺
+- `household chores`
+- `internal pit of emptiness `
+- `bog down` 陷入困境
+    + How does the work bog down?
+- `scrap paper`
+    + During the day she may also write on scrap paper, toilet paper, her surgical scrubs, and if nothing else is handy, on her own skin.
+- `jot down`草草记下
+
 
