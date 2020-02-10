@@ -76,6 +76,30 @@ _corpus_|文集, 文献, a collection of written texts
 _lipgloss_|唇彩
 _Christianity, Judaism, Islam, Buddhism, Hinduism_|教派
 _leeway_| 余地
+_columnist_|专栏作家
+_stalemate, deadlock_ | 僵持
+_limbo_|待定状态
+_drill_|训练
+_peeholes_|窥探孔
+_get-go_|from the beginning
+_nudge_|
+_apostrophes_|撇号
+_hallucinate_|产生幻觉
+_vacuously_| the second function the model compares tty == tty, which is vacuously true
+_dyspnoea_|呼吸困难
+_delirium_|神智不清
+_metastasis_|转移瘤
+_antibiotics_|抗生素
+_subside_|减轻
+_abdomen_|腹部
+_paramedic_|急救护理人员
+_sedate_|缓解, 使镇静
+_clueless_|一无所知
+_soak_|湿透
+_flashback_|倒叙, 闪回
+_hormones_|激素
+_agitation_|焦虑
+escalator, elevator|电梯
 
 
 ### Business 

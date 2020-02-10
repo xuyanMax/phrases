@@ -75,16 +75,35 @@
 - `sure-fire sign` 万无一失的信号
 - `touch barrier`
 - `preening or primping`, 打扮
-- `tie her hair up`.
+- `tie her hair up`|
 - `dither about` 犹豫
 - `easy peasy` 十分简单
 - `hone your craft` 打磨手艺, 精湛技艺
 - `household chores`
-- `internal pit of emptiness `
+- `internal pit of emptiness`
 - `bog down` 陷入困境
     + How does the work bog down?
 - `scrap paper`
     + During the day she may also write on scrap paper, toilet paper, her surgical scrubs, and if nothing else is handy, on her own skin.
 - `jot down`草草记下
-
-
+- `facing criminal indictment`
+- `on charges of bribery, fraud and breach of trust`
+- 'bulk of work' 工作的大头
+- `come in handy` 派上用场
+    + We will see it later when it comes in handy.
+- 'hat-trick' 帽子戏法
+- `respiratory secretions` 呼吸分泌物
+- `it's ripping and tearing!` 撕裂般的疼痛
+- `My heart beat was racing.`
+- `long drawn out illnesses`
+- `I made a gaffe`|我失礼了
+- `for the sake of`|为了...
+- `under clinical trials`|进行临床试验
+- `a literal translation`|逐字翻译, 直译
+- `beyond remedy`|无法纠正
+- `nasal congestion`|鼻塞
+- `cassette tape recorders`|盒式磁带录音机
+- `wildlife park`|野生动物园
+- `regional autonomy`|区域自治
+- `life imprisonment`|终身监禁
+- `snobbish dislikes for inferiors`|势利眼不喜欢不如自己的人

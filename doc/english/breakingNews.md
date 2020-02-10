@@ -40,7 +40,7 @@ _`A is not better than B`__ A|不如 B
 _`A alone does not tell the full story`_ |仅仅A本身, 不够全面得出...
 _`Mistakenly predicting "not sick" for a person who actually is sick could be deadly`_.|..
 
-## Speaking 
+## Good Speaking Sentences
 表达|翻译
 :---:|:---:
 _`With that caveat in mind`_, `it is a good way to ...` |将这个忠告谨记在心
@@ -54,7 +54,7 @@ _`We need a more find grained way of looking at the way that ...`_ |..
 _`attemp to shift responsibility onto someone else`_ |试图推卸责任到他人身上
 _`Some principles lack details suitable for implementation`_|有些原则缺乏适合实施的细节
 _`No existing laws about ** have executable details about individual cases`_.| 现行法律对于个别案例没有可实施细节
-do the heavy lifting for us|为我们减轻负担
+`do the heavy lifting for us`|为我们减轻负担
 
 > "In the sport of swimming, when you miss one day, it takes two days to get back. For me when I spent six years straight not missing a single day, I was getting so much more benefit out of that than other athletes who were training for six days."
 > "If you take Sunday off, you aren't back to where you were until Tuesday. I was training so much. Now when I get in, I don't have that feel of the water that I had before. I've lost it. `So, no comeback, you guys`."

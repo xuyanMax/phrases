@@ -38,7 +38,7 @@ Here/There/Now/Then + come/be/go/lie/run + 主语
 
 例句:
 - Here comes the bus.
-- Then came the hour we had been looking forward to .
+- Then came the hour we had been looking forward to.
 - Now comes your turn.
 - Here she is.
 - Here you are.
@@ -85,3 +85,5 @@ When you feel like quitting, think about why you started. | 当你想放弃, 想
 So this leads us to a problem where we've taken a little bit of a step back, but that's okay. Sometimes you take one step back to take two steps forward.|
 How about we get together for dinner on evening - you pick the place but dinners' on me.
 If I'm going to fail, I'm going to fail big| 
+He may have been the one to get the ball rolling to try and save my life|
+The sweat would roll down my forehead and into my eyes. Someone had to keep wiping the sweat out of my face.|
