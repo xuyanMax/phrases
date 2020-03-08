@@ -99,7 +99,9 @@ _soak_|湿透
 _flashback_|倒叙, 闪回
 _hormones_|激素
 _agitation_|焦虑
-escalator, elevator|电梯
+`escalator, elevator`|电梯
+`fidding`|
+`roller coaster`|Gather your courage and brave a roller coaster with him to show your appreciation
 
 
 ### Business 

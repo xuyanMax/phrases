@@ -32,17 +32,21 @@
 
 ### 1. Certainty & probability (2)
 
-
-
 ## Phrases
-eng|chi
-:===:===:
-pig out | 大吃大喝
-as cool as cucumber| 像黄瓜一样酷
-hold the horses| 不要急
-when pig flies| 绝不可能
-everything but the kitchen sink|
-put a sock in it| asking a noisy person or a gruop to be quiet or to shut up
-drink like a fish|喝多了, 牛饮
-love me, love my dog|爱屋及乌
-use your loaf|动动脑子
+
+- pig out | 大吃大喝
+- as cool as cucumber| 像黄瓜一样酷
+- hold the horses| 不要急
+- when pig flies| 绝不可能
+- everything but the kitchen sink|形容考虑的十分周全
+- put a sock in it| asking a noisy person or a gruop to be quiet or to shut up
+- drink like a fish|喝多了, 牛饮
+- love me, love my dog|爱屋及乌
+- use your loaf|动动脑子
+
+## 妻管严(非常挺妻子话的丈夫)
+-  Ever since he got married, he has been `imprisoned in his house`. He never comes out anymore.| 他自从结婚之后，就被‘囚禁’在屋子里，再也不出来玩了。
+-  My `ball and chain` is mad at me. 我老婆(是让丈夫非常听话的妻子)生我气了。
+-  She's the woman of their house.或 She's the one wearing the pants in their house.她们家她说了算。
+-  She's a pussy-whipped. | 他完全听他老婆的。whipped表示用鞭子抽打，变成了pussy的奴隶，够形象吗？
+

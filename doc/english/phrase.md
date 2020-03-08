@@ -58,7 +58,7 @@
 - `ponzi schema` 庞氏骗局
 - `run afoul of sth.` do sth. you're not allowed to do.
     + who runs afoul of law are punished severely.
-- `due diligence` check off every acitivity you need to complete before you make a decision
+- `due diligence`|尽职 check off every acitivity you need to complete before you make a decision
 - `regulatory filing` 监管备案
 - `regulatory compliance` 法规服从
 - `on a need-to-know basis` 只需要知道
@@ -66,7 +66,7 @@
 - `on a whim` 突发奇想, 没有规划的想法
     + go out on a whim 
 - `tax evasion` 避税
-- `tipping points` 引爆点
+- `tipping points` 引爆点, watershed
     + The tipping point is about the theory that something like behaviors spread just like viruses. 
 - `level out.` to stop going up or down 
     + Divorce rates are leveling out for the first time in decades.
@@ -107,3 +107,57 @@
 - `regional autonomy`|区域自治
 - `life imprisonment`|终身监禁
 - `snobbish dislikes for inferiors`|势利眼不喜欢不如自己的人
+- `make supplement`
+- `make arrangement`
+- `make compliment`
+- `all-out battle`全力以赴
+- `daily necessities`
+- `increase treatment and cure rates and lower the infection and mortality rates`
+- `contain the virus`|控制疫情
+- `since the outbreak of the epidemic`|自疫情爆发之初
+- `place people's health and safety at the top priority`
+- `the remediation of proble outweights`
+- `the problem investigation and analysis has been exhausted with no root cause determined`
+- `the problem has resolved with no further reoccurence`
+- `minimize data security vulnerabilities`
+- `full-disck encription`
+- `decommisioning of physical hardware`
+- `timeout elapses`|过期时间到
+- `walk through the process`|过一遍
+- `It's about learning and it's about fail forward and fail fast`|
+- `dry run`|演练
+- `are we lagging behind?`
+- `you see what I mean?`
+- `drag on your canvas`
+- `up ones sleeves`|指“某人有秘密”，或者“某人隐藏着锦囊妙计”
+    + I can tell by his look that he has something up his sleeve.
+我能从他的表情中看出他藏有一些妙计。
+    + I've got a few more tricks up my sleeve. Take my word for it. 我还有几招没有用呢。相信我的话。
+    + I always have a card up my sleeve, so when they pull the plug onthe first plan, I can put forward another new one.
+我做事经常留着一手，所以当第一个计划叫停之后，我会提出另外一个。
+- `place an order`|下单
+- `orders get filled`|订单已满
+- `Rich in material and deficient in spirit`|物质丰富, 精神匮乏
+- `cast sb as lead`|把某人当主角
+    + who you'd cast as lead 
+- `I care about you more than just contacting people in a moment of need`
+- `provides finer-grained control`|提供细粒度的控制
+- `head up`|口语, 提醒
+- `right around the time + `|正在什么时候
+- `pat someone on the back`|赞美某人
+- `in the gutter`|处于困
+- `there is suddenly influx of subliminal messaging around`
+- `wrestle a lot with guilt around that` 
+- `that forms like a sliding door`|可是时光一去不复返
+- `cooking utensils`|烹饪厨具
+- `how come`|究竟
+    + how come the Trump administration kept repeating that the number of coronavirus cases in the US was only 22 on Feb.2, when it was, in fact 
+- `so long`|再见
+- `I cannot bear another moment without knowing`
+- `he got the sparkle in his eyes`|眼中泛着明亮
+- `go out of style`|不再流行
+- `You ain't never did nothing to nobody`|你不是未曾对nobody 做过 nothing
+- 
+- 
+- 
+
