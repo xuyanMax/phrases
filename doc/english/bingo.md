@@ -50,3 +50,49 @@
 -  She's the woman of their house.或 She's the one wearing the pants in their house.她们家她说了算。
 -  She's a pussy-whipped. | 他完全听他老婆的。whipped表示用鞭子抽打，变成了pussy的奴隶，够形象吗？
 
+## What's up
+
+Hey what's up?(Take is as Hello)
+- Hey!Hi!Hello!
+
+Hey What's up?(Take it as How are you?)
+- Not much. Just getting ready to work...
+- Not much. How you doing?
+
+
+
+## How are you.(你好!)
+- Hey man morning.
+- Hey how are you
+- Hey what's up.(hi 你好!)
+- I'm pretty good
+- Not bad
+- I've been better(现在不是很好, 以前更好)
+- I'm okay. 
+- Not so good.
+- Could't be better
+- Same old same old
+- same as usual
+- still alive and kicking
+    + 处于礼貌,一般建议回答完自己的情况后,反问过去. 
+    + What about you?
+    + How about you?
+    + And You?
+    + How are `you`?
+    + What's going on with you?
+    + How you doing?
+
+## 你欠谁的人情
+- I owe you 我欠你个人情
+- It can wait. 这事不急
+- Sorry. My mind went somewhere 不好意思我刚才走神了
+- I heard you loud and clear 我听得一清二楚
+- Sorry. I took you for someone else 不好意思 我认错人了
+- put him on the phone 让他接电话
+- he's long gone 他早走了
+- I got goose bumps我都起鸡皮疙瘩了
+- no peeking 不许偷看
+- that's a secret I can't tell这是个不能说的秘密
+
+
+

@@ -157,7 +157,18 @@
 - `he got the sparkle in his eyes`|眼中泛着明亮
 - `go out of style`|不再流行
 - `You ain't never did nothing to nobody`|你不是未曾对nobody 做过 nothing
-- 
-- 
+- `in its straightforward literal meaning`
+- `by chance`|偶然的, 意外的
+- raise capital
+- capital intensive and capital light|重资产、轻资产
+- private equity fund|私募基金
+- hedge fud|对冲基金
+- balance sheet|资产负债表
+- bank holding company|金融银行持股公司
+- proprietary trading
+- business line| 业务线
+- joint venture|合资
+- M&A transaction |并购交易
+- in no way or by no means |绝不
 - 
 
