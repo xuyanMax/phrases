@@ -74,7 +74,7 @@ Hey What's up?(Take it as How are you?)
 - Same old same old
 - same as usual
 - still alive and kicking
-    + 处于礼貌,一般建议回答完自己的情况后,反问过去. 
+    + 出于礼貌,一般建议回答完自己的情况后,反问过去. 
     + What about you?
     + How about you?
     + And You?
@@ -95,4 +95,36 @@ Hey What's up?(Take it as How are you?)
 - that's a secret I can't tell这是个不能说的秘密
 
 
+## 口语缩写词
+1. a beaut = a beauty 美人 好东西
+    - Lucy is a real beaut.
+    - Is that your new car? It's a beaut.
+2. carb = carbohydrate 碳水化合物
+    - I am going to try a low-carb diet我要试试低碳水饮食
+* cig = cigarette 香烟
+    - I could really use a cig right now.我现在很想抽烟
+    - Can I bum a cig?能借根烟抽么
+* Comfy = comfortable 舒适的
+    - These pants are really comfy.这裤子真舒服
+* fab = fabulous 美丽的好看的
+    - You look fab in this fress!!!
+* res = reservation 预定
+    - Do you have a res?你有预定吗
+    - I made a res. 我预订了
+* undies = underwear 内衣内裤
+    - pull up your pants! You undies are showing. 露内裤了bro
+
+
+## Count
+
+##
+
+## Girls interested in you 
+
+- She lingers
+- She leans towards you
+- She makes up reasons to talk to you
+- She laughs at your jokes even it's bad
+- She touches you
+- She keeps adjusting her hair or clothes
 
