@@ -170,5 +170,7 @@
 - joint venture|合资
 - M&A transaction |并购交易
 - in no way or by no means |绝不
-- 
+- 'common good'|共同利益
+- `pretty much everything`|几乎+任何事
+- `It's interesting that I find myself thinking of you all the time`
 
