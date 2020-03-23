@@ -122,7 +122,13 @@ Hey What's up?(Take it as How are you?)
 - Thanks to the bad weather, 由于恶劣的天气
 - I will regret it my whole life. 我会后悔一辈子的
 - It is really coming down. 在讨论天气时, 表示雨下得越来越大
-
+- What gives? = What's the problem?
+- Don't knock it. = Don't say bad things about it.
+- No biggie = No worries 没事, 没什么大不了
+- I'll say. = It's so . 说得太对了, 确实如此
+- up for grabs. = it's for everyone. 随便拿
+- What's with...= What's going on with...?这人怎么回事
+- Give someone the 411 = give someone information. 给某人提供信息. 411 是美国的电话查询号
 
 ## 经常迟到
 1. Sorry I'm late.
@@ -151,8 +157,6 @@ Hey What's up?(Take it as How are you?)
  - He's fucking drunk.
 
 #### Bollocks
--
-
 
 
 
