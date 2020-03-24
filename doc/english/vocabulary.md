@@ -102,6 +102,10 @@ _agitation_|焦虑
 `escalator, elevator`|电梯
 `fidding`|
 `roller coaster`|Gather your courage and brave a roller coaster with him to show your appreciation
+_hinterland_|偏僻地区
+_customary_|按照惯例的
+_feudal_|封建的
+
 
 
 ### Business 
