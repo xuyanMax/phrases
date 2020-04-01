@@ -173,5 +173,12 @@
 - on the horizon | 即将到来
 - Give a man a fish, you feed him for a day. Teach a man to fish and you feed him for a lifetime | 授人以鱼不如授人以渔
 - `clear the decks`|准备战斗
-
+=======
+- 'common good'|共同利益
+- `pretty much everything`|几乎+任何事
+- `It's interesting that I find myself thinking of you all the time`
+- `not long after`|不久以后, 很快
+    - Not long after the got married, she is pregnant.
+- `married young`, `die young` | 早婚了, 早逝了
+- `make a scene`|大闹一场场面难看
 
