@@ -170,5 +170,8 @@
 - joint venture|合资
 - M&A transaction |并购交易
 - in no way or by no means |绝不
-- 
+- on the horizon | 即将到来
+- Give a man a fish, you feed him for a day. Teach a man to fish and you feed him for a lifetime | 授人以鱼不如授人以渔
+- `clear the decks`|准备战斗
+
 
