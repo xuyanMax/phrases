@@ -181,4 +181,9 @@
     - Not long after the got married, she is pregnant.
 - `married young`, `die young` | 早婚了, 早逝了
 - `make a scene`|大闹一场场面难看
+- `GMT+8 其实读作GMT plus eight`
+- `Sounds like a plan`
+- `get up to speed with`
+- `settle the bill` | 结账
+- `be weighed in dollars and cents` |金钱无法
 
