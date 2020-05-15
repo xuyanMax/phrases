@@ -76,5 +76,5 @@ _"The BRI has transcended the challenges of geography and un­equal development,
 
 _While protectionism and fierce global competition for resources have diverted some economies' attention from making a bigger cake to wrestling for a larger slice, Xiplomacy staunchly advocates common efforts to create more shared interests and benefits._
 
-selves_ 中国已经要求全球的外交官、媒体、专家和学者前往新疆考察真相
+中国已经要求全球的外交官、媒体、专家和学者前往新疆考察真相
 

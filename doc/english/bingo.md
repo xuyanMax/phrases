@@ -138,7 +138,7 @@ Hey What's up?(Take it as How are you?)
     - I know for sure that he's in love with you.
     - That's for sure.
 - for a change 改变一下,换换口味    
-    - We always go t是here. Let's try a different bar for a change. 换个酒吧试试吧
+    - We always go there. Let's try a different bar for a change. 换个酒吧试试吧
     - I want to eat rice for a change. 我想换米饭吃
 - for fear of ... 害怕
     - I didn't tell you for fear of upsetting you.我不告诉你是害怕你心烦

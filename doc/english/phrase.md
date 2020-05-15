@@ -159,7 +159,7 @@
 - `You ain't never did nothing to nobody`|你不是未曾对nobody 做过 nothing
 - `in its straightforward literal meaning`
 - `by chance`|偶然的, 意外的
-- raise capital
+- `raise capital` 集资
 - capital intensive and capital light|重资产、轻资产
 - private equity fund|私募基金
 - hedge fud|对冲基金
@@ -186,4 +186,116 @@
 - `get up to speed with`
 - `settle the bill` | 结账
 - `be weighed in dollars and cents` |金钱无法
-
+- `round the clock`|全天候
+- `bank holidays` | 公共假期
+- `It is a matter of fact, not a matter of opinion.` | 
+- `Turn inward and examine yourself when you encounter difficulties in life.` | 行有不得, 反求诸己
+- `This is spot on.` Accurate
+- `bits by bit` | 一点一点
+- `What's the direction that you think we're more likely heading of those two` | 您认为我们将沿着两者中的哪个方向走下去
+-  `high net worth individuals (HNWIs)`
+- `Electronic trading is very much on the rise`
+- `Exchanges these days are more characteristics of a computer data center than the stereotype image of a bustling trading floor`
+- `over the counter`
+- `But once the process of concentration has taken root, it becomes self-fulfilling.`
+- `introduce curbs on these activities`
+- `profit from fees or arbitrage in interest rate`
+- `shadow banking: the provision of banking in an nonbank entity` | 黑池交易
+- `Buy and sell an asset at a pre-defined price by a specified date`
+- `underwriter may be something of a misnomer`
+Turn inward and examine yourself when you encounter difficulties in life.
+- `strike a balance between`
+- `seasoned equity offering`
+- `make the market`|虚假市场兴旺
+- `profit through bid-offer spread` | 买卖价差
+- `securities underwriter` | 金融包销商
+- `venture capital fund ` |风险投资基金
+- `pension fund` | 养老基金
+- `hedge fund` | 对冲基金
+- `private equity` | 私募
+- `Banking act of 19`
+- `equity stake` | 股权
+- `some hybrid combination of the two
+- `publicly-listed companies`
+- `principal business` | 主要业务
+- `capital amount`|资金额
+- `Build run refers to the process of generating, capturing and recording investor demand for shares during a securities offering`
+- `debt-to-equity`
+- `in lieu of` | 代替
+- `in the parlance of...` | 根据...中的说法
+- `price volatility` | 价格波动
+- `account for` | 负有责任
+-  `SWIFT = Society for Wordwide Interbank Financial Telecommunication`, standardized messaging services and interface software to the global financial community
+- `rippling effect` | 连锁反应
+- `the problem has to be identified and corrective actions taken to bring them into balance
+- `settlement currency`
+- `go one by one`, `go security by security`
+- `income distribution` | 收入分配
+- `debt redemptions` | 债务清偿
+- `dessimination of information`
+- `raising capital`
+- `share capital restructing`
+- `debt restructing`
+- `upstream flows from investors to issuers or downstream flows from issuers to investors`
+- `win by breaking new ground`
+-  `leverage different perspectives to gain new sight`
+- `paso doble` | 斗牛舞
+- `as you wish` | 如您所愿
+- `so what I told you is truth, from a certain point of view` | 从某个角度
+- `price appreciation` | 房价上涨
+- `scrip dividend` | 用期票支付股利
+- `ex-dividend` | 不带股息地
+- `make provision` | 预作安排，为未来作打算
+- `assets settlement` | 资产决算
+- `trade settlement`
+- `outstanding shares`, the number of shares the company has outstanding. | 流通股
+- `retained earning` | 留存利润
+- `as with mergers, fractional shares often arise `
+- `spin-off/demerger` | 资产分拆
+- `return of capital` | 资本利润率
+- `at a discount` | 折扣 
+- `Rights Issues` | 附加股
+- `Tender Offers` | 投标报价
+- `on a pro rata basis` | 按比例
+- `earnings per share` | 每股利润
+- `cast vote` | 投票
+- `open offer` | 公开发售
+- `It complicates the process`
+- `call option` | 看涨期权
+- `risk profile` 风险评估
+- `ticker symbol` | 股票代号
+- `risk taking`
+- `deposit taking`
+- `selling point`
+- `conflicts of interest`
+- `buyout often results in publicly-listed companies becoming private, with public shareholders bought out by the new owners who don't then list their shares for public trading`
+- `lump-sum fee` | 一次性费用
+- `Sometimes a sale of shares is linked to a company's decision to go publc by having theirs shares listed on a public exchange`
+- `bought deal` | 包销
+- `prime broker` | 一级经纪人
+- `risk premium` | 风险溢价
+- `consumer price index`
+- `the economy is growing, stationary or contracting`
+- `barrels of oil`
+- `year-on-year`
+- `revision occurs on a frequent basis`
+- `purchasing power parity`
+- `what has to be unanimous`
+- `I would've said the probability of that being pulled off is close to zero, but it happened`
+- `weather the storm`
+- `on the mend`
+- `roll up your sleeves`
+- `political rally`
+- `ragtag team of sycophants you has surrounded yourself with`
+- `elbow bump`
+- `around the clock` | 夜以继日
+- `big mac index`
+- `celtic tiger
+- `coincident indicator`
+- `internationally mobile short-term capital(hot-money)`
+- `GDP is both a pro-cyclical and a coincident economic indicator.`
+- `slow growth doesn't generally instill confidence in the equity market`
+- `Moving down the list`
+- `to close off`
+- `That's bring us to the close of our meeting`
+- `Just let me to recap what we've reached/decided so far`

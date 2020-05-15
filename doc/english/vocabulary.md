@@ -44,8 +44,6 @@ _prosecutor_ |公诉人
 _cemetery_ |殡仪馆
 _cremate_ |火化
 _lamppost_ |路灯
-_barricade_ |路障
-_roadblock_ |路障
 _railing_ |栏杆
 _iron rod_ |铁棒 
 _disservice_|伤害
@@ -105,6 +103,13 @@ _agitation_|焦虑
 _hinterland_|偏僻地区
 _customary_|按照惯例的
 _feudal_|封建的
+_chevron_ | V型标志
+_disinformation_ | 虚假信息
+_unhinged_ | 精神错乱
+_diehard_ | 顽固分子
+_rant_ | 咆哮分子
+_unwittingly_ | 不知不觉地
+
 
 
 
